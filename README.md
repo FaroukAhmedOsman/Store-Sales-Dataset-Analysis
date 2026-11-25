@@ -22,10 +22,12 @@ An end-to-end data analytics project on an Egyptian FMCG distributor selling to 
 | 4 | Integration, review, final presentation | Final deliverables |
 
 ## Roles & Responsibilities
-- **Farouk Ahmed - SQL & Power BI:** SQL queries, Power Query, sales and profitability analysis & customer Analysis.
-- **Mohamed Abd El-Sattar - Excel & & Power BI:** statistics, targets and commission analysis, forecasting.
-- **Beshoy Medhat - Python & Power BI:** profiling, cleaning, data validation with Python & Products Analysis
-- **Abd El-Rahman Mohamed - Tableau & Power BI:** Store Analysis and building interactive Tableau dashboards.
+| Name | Role | Tool |
+|---|---|---|
+| Farouk Ahmed | SQL Queries, Power Query, Sales & Profitability Analysis, Customer Analysis | SQL, Power BI |
+| Mohamed Abd El-Sattar | Statistics, Targets & Commission Analysis, Forecasting | Excel, Power BI |
+| Beshoy Medhat | Data Profiling, Cleaning, Data Validation, Products Analysis | Python, Power BI |
+| Abd El-Rahman Mohamed | Store Analysis, Interactive Dashboard Development | Tableau, Power BI |
 
 ## KPIs
 - Recognised Net Sales (non-cancelled, net of returns)
