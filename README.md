@@ -6,6 +6,8 @@ EGYCO for FMCG Distribution - Sales Analytics (2024-2025)
 An end-to-end data analytics project on an Egyptian FMCG distributor selling to supermarkets, groceries, wholesalers and restaurants across several governorates. The project covers data cleaning, exploratory analysis, KPI development, sales-target and commission analysis, forecasting, and interactive dashboards.
 
 ## Team Members
+| No. | Name | Role |
+|---|---|---|
 | 1 | Farouk Ahmed | Team Leader |
 | 2 | Mohamed Abd El-Sattar | Team Member |
 | 3 | Beshoy Medhat | Team Member |
