@@ -1,0 +1,461 @@
+ProductID,SKU,ProductName,Category,Subcategory,Brand,SupplierName,ProductLaunchDate,ProductStatus,ProductTier,StandardLeadTimeDays,DiscontinuationDate,UnitOfMeasure,InitialListPrice,InitialUnitCost,VATRatePercent
+1001,PP-NAP-1001,Softy Nile Paper Napkins 200 pcs x24,Paper Products,Napkins,Softy Nile,Softy Manufacturing Co.,2016-05-08,Active,Standard,16,,Carton,264.5,214.56,14
+1002,HC-SUR-1002,Misr Fresh Glass Cleaner 500ml x12,Household Cleaning,Surface Cleaners,Misr Fresh,Misr Trading & Industry,2022-08-22,Active,Standard,30,,Carton,494.5,363.73,14
+1003,PC-BAT-1003,PureSmile Soap Bars 125g x72,Personal Care,Bath & Body,PureSmile,PureSmile Trading & Industry,2016-06-07,Active,Standard,32,,Carton,372.75,257.02,14
+1004,PP-SCH-1004,Delta Paper School Notebooks 40 pages x60,Paper Products,School Paper,Delta Paper,Delta Holding S.A.E,2018-01-27,Active,Economy,43,,Carton,281.25,219.4,14
+1005,HC-DIS-1005,Nour Home Dishwashing Liquid 500ml x24,Household Cleaning,Dishwashing,Nour Home,Nour Foods S.A.E,2015-07-18,Active,Standard,19,,Carton,386.75,297.83,14
+1006,PC-SKI-1006,Aura Nile Body Lotion 400ml x12,Personal Care,Skin Care,Aura Nile,Aura Trading & Industry,2017-08-28,Active,Premium,8,,Carton,1271.0,813.44,14
+1007,PF-SPI-1007,Kemet Foods Mixed Spice Blend 250g x12,Packaged Food,Spices & Seasoning,Kemet Foods,Kemet Group,2015-03-04,Active,Premium,9,,Carton,664.5,477.33,14
+1008,PF-BRE-1008,Delta Pantry Strawberry Jam 700g x6,Packaged Food,Breakfast & Spreads,Delta Pantry,Delta Trading & Industry,2025-10-12,Phasing Out,Economy,3,2026-08-21,Carton,396.0,307.62,14
+1009,BV-COF-1009,Nile Fresh Hot Cocoa & Sahlab Mix Sachets x48,Beverages,Coffee & Hot Drinks,Nile Fresh,Nile Industries S.A.E,2022-11-01,Active,Standard,8,,Carton,343.25,258.78,14
+1010,PC-SKI-1010,Lotus Bloom Facial Wash 100ml x24,Personal Care,SKIN CARE,Lotus Bloom,Lotus Manufacturing Co.,2015-10-21,Active,Premium,21,,Carton,769.75,492.64,14
+1011,PF-STA-1011,Sahara Select Sunflower Blend Cooking Oil 2.2L x6,Packaged Food,Staples,Sahara Select,Sahara Manufacturing Co.,2020-12-16,Active,Premium,10,,Carton,1637.0,1386.06,14
+1012,PF-DAI-1012,Al-Waha Tinned Feta Cheese 900g x6,Packaged Food,Dairy & Cheese,Al-Waha,AlWaha Holding S.A.E,2017-06-06,Discontinued,Standard,10,2025-10-05,Carton,580.5,480.91,14
+1013,PP-DIS-1013,CloudSoft  Paper Cups 7oz x20x50,Paper Products,Disposable Tableware,CloudSoft,CloudSoft Group,2018-03-21,Active,Premium,32,,Carton,366.5,287.48,14
+1014,PF-SNA-1014,Al-Waha Potato Chips 50g x24,Packaged Food,Snacks & Biscuits,Al-Waha,AlWaha Holding S.A.E,2021-06-15,Active,Standard,5,,Carton,264.5,203.2,14
+1015,PP-OFF-1015,Softy  Nile A4 Copy Paper Reams 500 sheets x10,Paper Products,Office Paper,Softy Nile,Softy Manufacturing Co.,2016-05-05,Active,Standard,39,,Carton,1798.25,1498.05,14
+1016,PC-ORA-1016,Salma Naturals Toothpaste 150ml x12,Personal Care,Oral Care,Salma Naturals,Salma Group,2019-11-24,Active,Standard,35,,Carton,362.25,269.68,14
+1017,BV-MAL-1017,Oasis Pure Malt Drink 330ml can x24,Beverages,Malt & Dairy Drinks,Oasis Pure,Oasis Group,2022-10-21,Active,Standard,10,,Carton,488.0,384.56,14
+1018,PC-SKI-1018,Salma Naturals Facial Wash 100ml x24,Personal Care,Skin Care ,Salma Naturals,Salma Group,2022-10-20,Active,Standard,17,,Carton,566.25,370.84,14
+1019,PC-FEM-1019,Aura Nile Sanitary Pads Regular x24,Personal Care,Feminine & Baby,Aura Nile,Aura Trading & Industry,2024-10-23,Active,Premium,30,,Carton,836.5,578.62,14
+1020,BV-SOF-1020,Sunset Juice Lemon-Lime Soda 1L x12,Beverages,Soft Drinks,Sunset Juice,Sunset Holding S.A.E,2022-04-10,Active,Premium,9,,Carton,473.75,366.21,14
+1021,ES-BAT-1021,Basma Supplies LED Bulbs 12W x48,Personal and Household Essentials,Batteries & Lighting,Basma Supplies,Basma Manufacturing Co.,2018-09-27,Active,Economy,5,,Carton,966.25,708.1,14
+1022,HC-SUR-1022,Baraka Clean Bleach 2L x6,Household Cleaning,Surface Cleaners,Baraka Clean,Baraka Trading & Industry,2015-05-31,Active,Economy,24,,Carton,242.25,194.73,14
+1023,BV-COF-1023,Baraka Drinks Hibiscus & Herbal Tea Bags x48,Beverages,Coffee & Hot Drinks,Baraka Drinks,Baraka Trading & Industry,2022-03-06,Active,Economy,9,,Carton,220.25,173.91,14
+1024,PC-HAI-1024,PureSmile Hair Oil 200ml x12,Personal Care,Hair Care,PureSmile,PureSmile Trading & Industry,2022-04-20,Active,Standard,43,,Carton,412.5,279.54,14
+1025,PF-STA-1025,Zeina Kitchen Egyptian Rice 500g x24,Packaged Food,Staples,Zeina Kitchen,Zeina Foods S.A.E,2018-06-01,Discontinued,Standard,3,2025-03-14,Carton,509.5,458.13,0
+1026,PC-BAT-1026,Yasmina Shower Gel 500ml x12,Personal Care,Bath & Body,Yasmina,Yasmina Foods S.A.E,2024-10-12,Active,Standard,6,,Carton,1229.25,805.01,14
+1027,ES-HOU-1027,Basma Supplies Matches & Lighters Lighters x50,Personal & Household Essentials,Household Basics,Basma Supplies,Basma Manufacturing Co.,2015-04-25,Active,Economy,7,,Carton,128.25,96.81,14
+1028,PF-STA-1028,Amar Foods Macaroni Pasta 350g x24,Packaged Food,Staples,Amar Foods,Amar Manufacturing Co.,2021-09-28,Active,Economy,9,,Carton,243.25,208.23,0
+1029,BV-MAL-1029,Bahr  Cola Malt Drink 250ml x24,Beverages,Malt & Dairy Drinks,Bahr Cola,Bahr Manufacturing Co.,2015-02-03,Active,Standard,6,,Carton,415.0,321.41,14
+1030,PC-ORA-1030,Lotus Bloom Toothbrush Kids x24,Personal Care,Oral Care,Lotus Bloom,Lotus Manufacturing Co.,2021-11-25,Active,Premium,41,,Carton,358.25,229.28,14
+1031,PP-DIS-1031,Softy Nile Paper Cups 7oz x20x50,Paper Products,Disposable Tableware,Softy Nile,Softy Manufacturing Co.,2025-02-11,Active,Standard,17,,Carton,406.0,317.08,14
+1032,PC-FEM-1032,Lotus Bloom Baby Diapers Size 5 x60,Personal Care,Feminine & Baby,Lotus Bloom,Lotus Manufacturing Co.,2015-04-27,Active,Premium,37,,Carton,1361.0,1056.7,14
+1033,PF-SNA-1033,Delta Pantry Potato Chips 30g x48,Packaged Food,Snacks & Biscuits,Delta Pantry,Delta Trading & Industry,2018-03-25,Discontinued,Economy,9,2025-09-30,Carton,162.75,130.52,14
+1034,PC-BAT-1034,Aura Nile Shower Gel 500ml x12,Personal Care ,Bath & Body,Aura Nile,Aura Trading & Industry,2021-02-17,Active,Premium,41,,Carton,1231.25,788.0,14
+1035,PF-CAN-1035,Amar Foods Fava Beans (Foul) Can 800g x12,Packaged Food,Canned & Jarred,Amar Foods,Amar Manufacturing Co.,2023-04-20,Discontinued,Economy,10,2024-07-30,Carton,263.25,219.69,14
+1036,ES-HOU-1036,PowerCell Egypt Matches & Lighters Lighters x50,Personal & Household Essentials,Household Basics,PowerCell Egypt,PowerCell Holding S.A.E,2025-09-15,New,Standard,5,,Carton,219.25,163.64,14
+1037,BV-ENE-1037,Safwa Drinks Energy Drink 250ml x24,Beverages,Energy & Sports,Safwa Drinks,Safwa Manufacturing Co.,2021-01-20,Active,Premium,8,,Carton,691.25,489.75,14
+1038,PP-TOI-1038,Papyrus Home Toilet Rolls Bundle 3-ply 32 rolls,Paper Products,Toilet Paper,Papyrus Home,Papyrus Foods S.A.E,2018-05-19,Active,Standard,30,,Carton,565.0,454.37,14
+1039,PF-STA-1039,Nile Harvest Macaroni Pasta 800g x10,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E,2022-05-01,Active,Standard,9,,Carton,295.25,246.57,0
+1040,PC-ORA-1040,Lotus Bloom Toothpaste 100ml x24,Personal Care,Oral Care,Lotus Bloom,Lotus Manufacturing Co.,2023-12-15,Active,Premium,44,,Carton,563.25,393.89,14
+1041,PF-SNA-1041,Baladi Gold Cream Biscuits Single x24,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2022-12-13,Active,Economy,4,,Carton,158.75,127.35,14
+1042,PC-ORA-1042,Hayat Care Toothpaste 100ml x24,Personal Care,Oral Care,Hayat Care,Hayat Holding S.A.E,2025-10-27,New,Economy,7,,Carton,518.0,385.25,14
+1043,BV-COF-1043,Baraka Drinks Instant Coffee Sachets 3-in-1 x24,Beverages,Coffee & Hot Drinks,Baraka Drinks,Baraka Trading & Industry,2015-03-18,Active,Economy,11,,Carton,385.25,288.66,14
+1044,ES-FOI-1044,Basma Supplies Aluminium Foil 50m x12,Personal & Household Essentials,Foil & Wraps,Basma Supplies,Basma Manufacturing Co.,2018-10-18,Active,Economy,11,,Carton,406.75,328.28,14
+1045,PF-BRE-1045,Kemet Foods Corn Flakes 500g x12,Packaged Food,Breakfast & Spreads,Kemet Foods,Kemet Group,2016-10-13,Active,Premium,5,,Carton,1331.25,986.75,14
+1046,HC-SUR-1046,Misr Fresh Floor Cleaner 1L x12,Household Cleaning,Surface Cleaners ,Misr Fresh,Misr Trading & Industry,2018-09-04,Active,Standard,22,,Carton,523.0,397.99,14
+1047,BV-COF-1047,Nile Fresh Hibiscus & Herbal Tea Loose 100g x24,Beverages,Coffee & Hot Drinks,Nile Fresh,Nile Industries S.A.E,2021-04-20,Discontinued,Standard,9,2025-05-10,Carton,261.5,198.04,14
+1048,HC-SUR-1048,Lamaa Glass Cleaner 750ml x12,Household Cleaning,Surface Cleaners,Lamaa,Lamaa Trading & Industry,2021-01-10,Active,Premium,10,,Carton,836.75,604.0,14
+1049,PF-STA-1049,Nile Harvest Egyptian Rice 5kg x4,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E ,2020-07-13,Active,Standard,5,,Carton,803.25,706.24,0
+1050,PC-FEM-1050,Hayat Care Sanitary Pads Night x24,Personal Care,Feminine & Baby,Hayat Care,Hayat Holding S.A.E,2017-02-23,Active,Economy,32,,Carton,478.5,353.66,14
+1051,PC-BAT-1051,PureSmile Deodorant Spray 200ml x12,Personal Care,Bath & Body,PureSmile,PureSmile Trading & Industry,2024-12-22,Active,Standard,45,,Carton,1270.25,812.96,14
+1052,HC-LAU-1052,Nour Home Liquid Laundry Detergent 1L x12,Household Cleaning,Laundry,Nour Home,Nour Foods S.A.E,2015-05-14,Discontinued,Standard,6,2024-11-22,Carton,777.25,596.54,14
+1053,PF-CAN-1053,Baladi Gold Tuna Chunks Can 1.7kg x6,Packaged Food,Canned & Jarred,Baladi Gold,Baladi Group,2015-03-19,Discontinued,Economy,9,2024-11-03,Carton,976.5,819.53,14
+1054,PC-FEM-1054,Aura Nile Sanitary Pads Night x24,Personal Care,Feminine & Baby,Aura Nile, Aura Trading & Industry,2020-05-12,Active,Premium,40,,Carton,725.0,509.12,14
+1055,BV-COF-1055,Safwa Drinks Instant Coffee Sachets Classic jar 100g x12,Beverages,Coffee & Hot Drinks,Safwa Drinks,Safwa Manufacturing Co.,2022-11-03,Active,Premium,7,,Carton,749.5,527.23,14
+1056,PP-SCH-1056,Delta Paper School Notebooks 60 pages x48,Paper Products,School Paper,Delta Paper,Delta Holding S.A.E,2017-05-26,Active,Economy,32,,Carton,329.5,255.29,14
+1057,HC-SUR-1057,Misr Fresh Bleach 1L x12,Household Cleaning,Surface Cleaners,Misr Fresh,Misr Trading & Industry,2015-10-31,Active,Standard,41,,Carton,299.25,235.81,14
+1058,HC-LAU-1058,Lamaa Laundry Powder 1.5kg x8,Household Cleaning,Laundry,Lamaa,Lamaa Trading & Industry,2015-01-23,Active,Premium,5,,Carton,864.0,643.87,14
+1059,HC-LAU-1059,Qasr Shine Fabric Softener 1L x12,Household Cleaning,Laundry,Qasr Shine,Qasr Foods S.A.E,2017-06-04,Active,Economy,7,,Carton,520.5,391.12,14
+1060,PF-CAN-1060,Sahara Select Tomato Paste 70g x48,Packaged Food,Canned & Jarred,Sahara Select,Sahara Manufacturing Co.,2016-11-05,Discontinued,Premium,4,2024-10-03,Carton,300.75,242.92,14
+1061,PP-NAP-1061,Papyrus Home Paper Napkins 100 pcs x48,Paper Products,Napkins,Papyrus Home,Papyrus Foods S.A.E,2016-11-19,Active,Standard,16,,Carton,241.75,199.24,14
+1062,ES-BAT-1062,Zahraa Plastics LED Bulbs 12W x48,Personal & Household Essentials,Batteries & Lighting,Zahraa Plastics,Zahraa Foods S.A.E,2022-08-05,Active,Economy,7,,Carton,964.5,697.56,14
+1063,BV-COF-1063,Sunset Juice Instant Coffee Sachets 3-in-1 x24,Beverages,Coffee & Hot Drinks,Sunset Juice,Sunset Holding S.A.E,2021-10-18,Active,Premium,8,,Carton,564.5,395.57,14
+1064,PF-RAM-1064,Baladi Gold Packed Dates 200g x48,Packaged Food,Ramadan & Festive,Baladi Gold,Baladi Group,2023-03-14,Active,Economy,5,,Carton,389.5,315.46,14
+1065,ES-SCH-1065,Zahraa Plastics Pens & Pencils Sets Ballpoint x100,Personal & Household Essentials,School Stationery,Zahraa Plastics,Zahraa Foods S.A.E,2024-08-07,Active,Economy,4,,Carton,376.0,283.88,14
+1066,PF-STA-1066,Sahara Select White Sugar 2kg x6,Packaged Food,Staples,Sahara Select,Sahara Manufacturing Co.,2020-06-09,Active,Premium,9,,Carton,619.75,533.37,0
+1067,PP-KIT-1067,Softy Nile Kitchen Towel Rolls 2 rolls x24,Paper Products,Kitchen Paper,Softy Nile,Softy Manufacturing Co.,2017-05-28,Discontinued,Standard,23,2025-06-25,Carton,437.25,354.76,14
+1068,PP-TIS-1068,CloudSoft Facial Tissue Boxes 200 sheets x24,Paper Products,Tissues ,CloudSoft,CloudSoft Group,2021-03-01,Discontinued,Premium,28,2025-04-14,Carton,483.25,359.87,14
+1069,HC-AIR-1069,Qasr Shine Insecticide Spray 300ml x12,Household Cleaning,Air Care & Pest,Qasr Shine,Qasr Foods S.A.E,2021-04-13,Active,Economy,7,,Carton,635.25,466.61,14
+1070,BV-COF-1070,Safwa Drinks Hot Cocoa & Sahlab Mix Tub 450g x12,Beverages,Coffee & Hot Drinks,Safwa Drinks,Safwa Manufacturing Co.,2021-09-28,Active,Premium,5,,Carton,568.75,410.48,14
+1071,PC-SKI-1071,Lotus Bloom Facial Wash 150ml x12,Personal Care,Skin Care,Lotus Bloom,Lotus Manufacturing Co.,2021-08-19,Active,Premium,6,,Carton,606.5,388.16,14
+1072,PF-BRE-1072,Zeina Kitchen Halawa Tahiniya 200g x24,Packaged Food,Breakfast & Spreads,Zeina Kitchen,Zeina Foods S.A.E,2022-01-20,Active,Standard,11,,Carton,395.0,308.55,14
+1073,PF-SNA-1073,Delta Pantry Chocolate Bars 40g x24,Packaged Food,Snacks & Biscuits,Delta Pantry,Delta Trading & Industry,2016-02-20,Active,Economy,11,,Carton,321.0,252.76,14
+1074,ES-HOU-1074,Scribe Garbage Bags Large x30,Personal & Household Essentials,Household Basics,Scribe,Scribe Group,2022-12-12,Active,Standard,8,,Carton,397.5,309.7,14
+1075,PF-SNA-1075,Zeina Kitchen Wafer Bars Single x36,Packaged Food,Snacks & Biscuits,Zeina Kitchen,Zeina Foods S.A.E,2024-05-10,Active,Standard,9,,Carton,190.75,147.44,14
+1076,HC-LAU-1076,Baraka Clean Laundry Powder 500g x24,Household Cleaning,Laundry,Baraka Clean,Baraka Trading & Industry,2022-08-31,Active,Economy,28,,Carton,541.25,435.68,14
+1077,ES-BAT-1077,Lumina AA Alkaline Batteries Card of 4 x48,Personal & Household Essentials,Batteries & Lighting,Lumina,Lumina Group,2015-07-23,Active,Premium,10,,Carton,1036.0,724.7,14
+1078,HC-AIR-1078,Sparkle Nile Insecticide Spray 400ml x12,Household Cleaning,Air Care & Pest,Sparkle Nile,Sparkle Foods S.A.E,2021-11-07,Active,Premium,11,,Carton,1132.0,775.26,14
+1079,BV-COF-1079,Sunset Juice Hot Cocoa & Sahlab Mix Tub 450g x12,beverages,Coffee & Hot Drinks,Sunset Juice,Sunset Holding S.A.E,2020-09-01,Active,Premium,11,,Carton,523.25,372.52,14
+1080,ES-FOI-1080,Scribe Cling Film 30m x24,Personal & Household Essentials,Foil & Wraps,Scribe,Scribe Group,2015-08-23,Active,Standard,7,,Carton,410.25,326.15,14
+1081,PF-STA-1081,Delta Pantry White Sugar 500g x24,Packaged Food,Staples,Delta Pantry,Delta Trading & Industry,2020-07-23,Active,Economy,11,,Carton,429.0,397.46,0
+1082,HC-LAU-1082,Sparkle Nile Laundry Powder 1.5kg x8,Household Cleaning,Laundry,Sparkle Nile,Sparkle Foods S.A.E,2019-09-05,Active,Premium,41,,Carton,832.5,601.94,14
+1083,HC-SUR-1083,Lamaa Bleach 2L x6,Household Cleaning,Surface Cleaners,Lamaa,Lamaa Trading & Industry,2023-09-15,Active,Premium,8,,Carton,381.25,288.92,14
+1084,HC-SUR-1084,Baraka Clean Floor Cleaner 1L x12,Household Cleaning,Surface Cleaners,Baraka Clean,Baraka Trading & Industry,2020-06-13,Active,Economy,3,,Carton,439.75,343.04,14
+1085,BV-COF-1085,Sunset Juice Hibiscus & Herbal Tea Loose 100g x24,Beverages,Coffee & Hot Drinks,Sunset Juice,Sunset Holding S.A.E,2018-12-16,Active,Premium,3,,Carton,314.25,234.08,14
+1086,PF-STA-1086,Nile Harvest Macaroni Pasta 400g x20,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E,2023-05-26,Active,Standard,9,,Carton,295.5,253.78,0
+1087,PC-FEM-1087,Kemet Care Baby Diapers Size 3 x72,Personal Care ,Feminine & Baby,Kemet Care,Kemet Industries S.A.E,2022-10-24,Active,Premium,44,,Carton,1278.75,1014.66,14
+1088,HC-SUR-1088,Nour Home Bleach 1L x12,Household Cleaning,Surface Cleaners,Nour Home,Nour Foods S.A.E,2024-12-12,Active,Standard,11,,Carton,360.5,281.52,14
+1089,ES-BAT-1089,Lumina AA Alkaline Batteries Card of 2 x96,Personal & Household Essentials,Batteries & Lighting,Lumina,Lumina Group,2016-02-29,Active,Premium,7,,Carton,1026.0,720.2,14
+1090,PP-OFF-1090,Kemet Tissue A4 Copy Paper Reams 500 sheets x5,Paper Products,Office Paper,Kemet Tissue,Kemet Foods S.A.E,2016-02-19,Active,Premium,38,,Carton,1159.5,915.72,14
+1091,PP-OFF-1091,Papyrus Home A4 Copy Paper Reams 500 sheets x5,Paper Products,Office Paper,Papyrus Home,Papyrus Foods S.A.E,2025-02-17,Active,Standard,24,,Carton,1192.0,969.79,14
+1092,PF-BRE-1092,Baladi Gold Strawberry Jam 340g x12,Packaged Food,Breakfast & Spreads,Baladi Gold,Baladi Group,2018-11-25,Active,Economy,9,,Carton,316.0,258.57,14
+1093,BV-BOT-1093,Rayyan Beverages Natural Drinking Water 330ml x24,Beverages,Bottled Water,Rayyan Beverages,Rayyan Foods S.A.E,2022-10-21,Active,Standard,4,,Carton,136.5,109.27,14
+1094,PF-DAI-1094,Amar Foods Tinned Feta Cheese 400g x12,Packaged Food,Dairy & Cheese,Amar Foods,Amar Manufacturing Co.,2022-02-03,Active,Economy,10,,Carton,447.75,373.02,14
+1095,ES-FOI-1095,Basma Supplies Cling Film 30m x24,Personal & Household Essentials,Foil & Wraps,Basma Supplies,Basma Manufacturing Co.,2015-11-24,Active,Economy,10,,Carton,345.25,276.33,14
+1096,PF-BRE-1096,Zeina Kitchen Corn Flakes 500g x12,Packaged Food,Breakfast & Spreads,Zeina Kitchen,Zeina Foods S.A.E,2017-06-29,Active,Standard,6,,Carton,1001.25,790.17,14
+1097,PC-HAI-1097,Lotus Bloom Hair Oil 100ml x24,Personal Care ,Hair Care,Lotus Bloom,Lotus Manufacturing Co.,2024-10-19,Active,Premium,41,,Carton,762.5,488.0,14
+1098,BV-SOF-1098,Oasis Pure Cola Soft Drink 2.25L x6,Beverages,Soft Drinks,Oasis Pure,Oasis Group,2017-05-24,Active,Standard,3,,Carton,389.75,298.76,14
+1099,PC-BAT-1099,Hayat Care Shower Gel 250ml x12,Personal Care,Bath & Body,Hayat Care,Hayat Holding S.A.E,2020-07-19,Active,Economy,17,,Carton,503.25,332.12,14
+1100,PP-TIS-1100,Delta Paper Facial Tissue Boxes 200 sheets x24,Paper Products,Tissues,Delta Paper,Delta Holding S.A.E,2022-08-29,Active,Economy,44,,Carton,304.5,244.62,14
+1101,PF-CAN-1101,Al-Waha Fava Beans (Foul) Can 800g x12,Packaged Food,Canned & Jarred,Al-Waha,AlWaha Holding S.A.E,2015-05-22,Active,Standard,11,,Carton,307.5,256.52,14
+1102,PC-HAI-1102,Kemet Care Shampoo 200ml x12,Personal Care,Hair Care,Kemet Care,Kemet Industries S.A.E,2022-09-30,Active,Premium,27,,Carton,635.5,406.76,14
+1103,PC-BAT-1103,Hayat Care Deodorant Spray 150ml x12,Personal Care,Bath & Body,Hayat Care,Hayat Holding S.A.E,2020-05-30,Active,Economy,42,,Carton,619.0,412.34,14
+1104,HC-SUR-1104,Baraka Clean Floor Cleaner 2L x6,Household Cleaning,Surface Cleaners,Baraka Clean,Baraka Trading & Industry,2022-10-09,Active,Economy,44,,Carton,422.0,327.4,14
+1105,PF-DAI-1105,Baladi Gold UHT Full-Cream Milk 500ml x12,Packaged Food,Dairy & Cheese,Baladi Gold,Baladi Group,2024-03-30,Active,Economy,9,,Carton,246.25,219.67,0
+1106,PF-CAN-1106,Kemet Foods Tomato Paste 135g x24,Packaged Food,Canned & Jarred,Kemet Foods,Kemet Group,2018-05-21,Active,Premium,11,,Carton,431.25,350.79,14
+1107,HC-SUR-1107,Nour Home Floor Cleaner 1L x12,Household Cleaning,Surface Cleaners,Nour Home,Nour Foods S.A.E,2023-11-22,Active,Standard,7,,Carton,497.0,372.75,14
+1108,PF-CAN-1108,Amar Foods Tuna Chunks Can 80g x48,Packaged Food,Canned & Jarred,Amar Foods,Amar Manufacturing Co.,2015-03-20,Phasing Out,Economy,8,2026-01-26,Carton,363.25,299.94,14
+1109,PP-KIT-1109,Kemet Tissue Kitchen Towel Rolls 2 rolls x24,Paper Products,Kitchen Paper,Kemet Tissue,Kemet Foods S.A.E,2018-01-08,Active,Premium,25,,Carton,533.0,417.96,14
+1110,PC-SKI-1110,Hayat Care Body Lotion 200ml x12,Personal Care,Skin Care,Hayat Care,Hayat Holding S.A.E,2021-05-26,Discontinued,Economy,28,2025-03-10,Carton,439.5,298.57,14
+1111,HC-DIS-1111,Qasr Shine Dishwashing Liquid 750ml x12,Household Cleaning,Dishwashing,Qasr Shine,Qasr Foods S.A.E,2021-12-07,Discontinued,Economy,6,2025-11-10,Carton,357.75,287.87,14
+1112,PF-DAI-1112,Delta Pantry UHT Full-Cream Milk 1L x12,Packaged Food,Dairy & Cheese,Delta Pantry,Delta Trading & Industry,2019-07-20,Active,Economy,7,,Carton,421.0,374.89,0
+1113,BV-ENE-1113,Rayyan Beverages Energy Drink 500ml x12,Beverages,Energy & Sports,Rayyan Beverages,Rayyan Foods S.A.E,2015-10-25,Active,Standard,9,,Carton,636.0,474.36,14
+1114,PC-BAT-1114,Kemet Care Shower Gel 250ml x12,Personal Care,Bath & Body,Kemet Care, Kemet Industries S.A.E,2020-10-20,Active,Premium,41,,Carton,776.25,496.8,14
+1115,HC-DIS-1115,Misr Fresh Dishwashing Liquid 500ml x24,Household Cleaning,Dishwashing,Misr Fresh,Misr Trading & Industry,2015-02-12,Active,Standard,22,,Carton,410.0,316.52,14
+1116,PF-DAI-1116,Kemet Foods Tinned Feta Cheese 2kg x4,Packaged Food,Dairy & Cheese,Kemet Foods,Kemet Group,2015-01-14,Discontinued,Premium,4,2025-02-25,Carton,973.0,780.42,14
+1117,PP-SCH-1117,Softy Nile School Notebooks 60 pages x48,Paper Products,School Paper,Softy Nile,Softy Manufacturing Co.,2017-02-04,Active,Standard,20,,Carton,429.75,324.29,14
+1118,PF-STA-1118,Kemet Foods White Sugar 2kg x6,Packaged Food,Staples,Kemet Foods,Kemet Group,2025-04-07,New,Premium,10,,Carton,850.5,759.69,0
+1119,HC-LAU-1119,Qasr Shine Laundry Powder 500g x24,Household Cleaning,Laundry,Qasr Shine,Qasr Foods S.A.E,2021-10-23,Active,Economy,16,,Carton,517.0,410.5,14
+1120,ES-FOI-1120,HomeMate Aluminium Foil 30m x24,Personal & Household Essentials,Foil & Wraps,HomeMate,HomeMate Trading & Industry,2017-09-16,Active,Standard,30,,Carton,526.25,410.65,14
+1121,HC-LAU-1121,Qasr Shine Liquid Laundry Detergent 3L x4,Household Cleaning,Laundry,Qasr Shine,Qasr Foods S.A.E,2016-06-09,Active,Economy,7,,Carton,653.75,507.06,14
+1122,PF-STA-1122,Sahara Select Egyptian Rice 5kg x4,Packaged Food,Staples,Sahara Select,Sahara Manufacturing Co. ,2015-02-21,Active,Premium,5,,Carton,984.0,867.72,0
+1123,PC-BAT-1123,Kemet Care Soap Bars 125g x72,Personal Care,Bath & Body,Kemet Care,Kemet Industries S.A.E,2020-07-23,Active,Premium,15,,Carton,489.5,337.69,14
+1124,ES-HOU-1124,Scribe Garbage Bags Medium x40,Personal & Household Essentials,HOUSEHOLD BASICS,Scribe,Scribe Group,2023-04-16,Active,Standard,42,,Carton,369.25,297.9,14
+1125,PF-STA-1125,Amar Foods Black Tea 25 bags x48,Packaged Food,Staples,Amar Foods,Amar Manufacturing Co.,2019-08-07,Active,Economy,6,,Carton,268.5,223.78,14
+1126,PF-SNA-1126,Amar Foods Potato Chips 120g x12,Packaged Food,Snacks & Biscuits,Amar Foods,Amar Manufacturing Co.,2016-12-04,Discontinued,Economy,7,2025-10-17,Carton,224.5,177.59,14
+1127,PF-STA-1127,Nile Harvest Macaroni Pasta 350g x24,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E,2021-07-03,Active,Standard,9,,Carton,315.0,271.5,0
+1128,HC-AIR-1128,Lamaa Insecticide Spray 400ml x12,Household Cleaning,Air Care & Pest,Lamaa,Lamaa Trading & Industry,2017-06-05,Active,Premium,11,,Carton,1167.5,826.45,14
+1129,BV-ENE-1129,Safwa Drinks Energy Drink 500ml x12,Beverages,Energy & Sports,Safwa Drinks,Safwa Manufacturing Co.,2021-02-17,Active,Premium,8,,Carton,799.5,574.17,14
+1130,PF-STA-1130,Sahara Select Sunflower Blend Cooking Oil 800ml x12,Packaged Food,Staples,Sahara Select,Sahara Manufacturing Co.,2017-07-31,Active,Premium,3,,Carton,707.5,600.19,14
+1131,BV-COF-1131,Bahr Cola Instant Coffee Sachets 3-in-1 x48,Beverages,Coffee & Hot Drinks,Bahr Cola,Bahr Manufacturing Co.,2019-03-18,Active,Standard,8,,Carton,851.75,622.7,14
+1132,BV-COF-1132,Kanzi Soda Hibiscus & Herbal Tea Bags x48,Beverages,Coffee & Hot Drinks,Kanzi Soda,Kanzi Industries S.A.E,2022-01-19,Active,Economy,3,,Carton,237.5,183.86,14
+1133,PF-SNA-1133,Amar Foods Potato Chips 50g x24,Packaged Food,Snacks & Biscuits,Amar Foods,Amar Manufacturing Co.,2024-08-28,Active,Economy,10,,Carton,250.75,197.42,14
+1134,PP-SCH-1134,Softy Nile School Notebooks 80 pages x36,Paper Products,School Paper,Softy Nile,Softy Manufacturing Co.,2017-05-13,Discontinued,Standard,41,2025-02-09,Carton,447.0,344.08,14
+1135,PF-STA-1135,Nile Harvest Egyptian Rice 500g x24,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E,2017-07-17,Active,Standard,10,,Carton,493.5,442.07,0
+1136,ES-FOI-1136,Lumina Cling Film 100m x12,Personal & Household Essentials,Foil & Wraps,Lumina,Lumina Group,2021-11-17,Discontinued,Premium,11,2024-07-18,Carton,742.25,565.63,14
+1137,PC-BAT-1137,Salma Naturals Soap Bars 100g x72,Personal Care,Bath & Body,Salma Naturals,Salma Group,2021-10-31,Active,Standard,32,,Carton,319.75,225.25,14
+1138,ES-BAT-1138,Zahraa Plastics AA Alkaline Batteries Card of 2 x96,Personal & Household Essentials,Batteries & Lighting,Zahraa Plastics,Zahraa Foods S.A.E,2023-06-17,Active,Economy,3,,Carton,698.5,527.65,14
+1139,HC-AIR-1139,Baraka Clean Air Freshener 300ml x12,Household Cleaning,Air Care & Pest,Baraka Clean,Baraka Trading & Industry,2017-10-21,Active,Economy,38,,Carton,481.5,346.2,14
+1140,PC-BAT-1140,Lotus Bloom Deodorant Spray 150ml x12,Personal Care,Bath & Body,Lotus Bloom,Lotus Manufacturing Co.,2021-01-18,Active,Premium,31,,Carton,969.0,620.16,14
+1141,PP-NAP-1141,Papyrus Home Paper Napkins 200 pcs x24,Paper Products,Napkins,Papyrus Home,Papyrus Foods S.A.E,2016-06-05,Active,Standard,43,,Carton,255.75,209.46,14
+1142,PC-ORA-1142,Yasmina Toothpaste 150ml x12,Personal Care,Oral Care,Yasmina,Yasmina Foods S.A.E,2016-12-22,Active,Standard,20,,Carton,354.75,255.82,14
+1143,PF-SNA-1143,Nile Harvest Chocolate Bars 100g x24,Packaged Food,Snacks & Biscuits,Nile Harvest,Nile Foods S.A.E,2024-08-18,Active,Standard,7,,Carton,843.5,639.74,14
+1144,PF-CAN-1144,Sahara Select Tomato Paste 135g x24,Packaged Food,Canned & Jarred,Sahara Select,Sahara Manufacturing Co.,2016-04-13,Discontinued,Premium,3,2024-08-08,Carton,435.0,359.58,14
+1145,PC-ORA-1145,PureSmile Toothpaste 75ml x24,Personal Care,Oral Care,PureSmile,PureSmile Trading & Industry,2022-12-24,Active,Standard,35,,Carton,342.5,245.18,14
+1146,PF-CAN-1146,Amar Foods Tuna Chunks Can 160g x24,Packaged Food,Canned & Jarred,Amar Foods,Amar Manufacturing Co.,2015-10-28,Phasing Out,Economy,11,2026-01-31,Carton,561.0,467.56,14
+1147,HC-SUR-1147,Lamaa Glass Cleaner 500ml x12,Household Cleaning,Surface Cleaners,Lamaa,Lamaa Trading & Industry,2023-11-04,Discontinued,Premium,28,2025-04-06,Carton,593.0,421.11,14
+1148,ES-HOU-1148,Zahraa Plastics Garbage Bags Medium x40,Personal & Household Essentials,Household Basics,Zahraa Plastics,Zahraa Foods S.A.E,2015-09-15,Active,Economy,10,,Carton,300.0,241.75,14
+1149,PF-SNA-1149,Kemet Foods Wafer Bars Twin x24,Packaged Food,Snacks & Biscuits,Kemet Foods,Kemet Group,2023-06-11,Active,Premium,4,,Carton,238.25,177.63,14
+1150,PC-SKI-1150,Nada Beauty Facial Wash 150ml x12,Personal Care,Skin Care,Nada Beauty,Nada Group,2021-05-29,Discontinued,Economy,26,2025-05-08,Carton,374.75,247.81,14
+1151,PC-BAT-1151,Aura Nile Shower Gel 250ml x12,Personal Care,Bath & Body,Aura Nile,Aura Trading & Industry,2023-07-09,Active,Premium,3,,Carton,771.25,493.6,14
+1152,PF-BRE-1152,Baladi Gold Corn Flakes 500g x12,Packaged Food,Breakfast & Spreads,Baladi Gold,Baladi Group,2022-03-19,Active,Economy,11,,Carton,839.75,673.58,14
+1153,ES-HOU-1153,Scribe Matches & Lighters Lighters x50,Personal & Household Essentials,Household Basics,Scribe,Scribe Group,2016-05-03,Active,Standard,11,,Carton,159.0,119.5,14
+1154,HC-LAU-1154,Sparkle Nile Liquid Laundry Detergent 3L x4,Household Cleaning,Laundry,Sparkle Nile,Sparkle Foods S.A.E,2017-11-05,Active,Premium,36,,Carton,1073.5,792.56,14
+1155,PP-OFF-1155,Papyrus Home A4 Copy Paper Reams 500 sheets x10,Paper Products,Office Paper,Papyrus Home,Papyrus Foods S.A.E,2019-04-08,Active,Standard,43,,Carton,1675.25,1383.96,14
+1156,PF-STA-1156,Nile Harvest Sunflower Blend Cooking Oil 1L x12,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E,2016-10-09,Active,Standard,11,,Carton,730.75,637.59,14
+1157,PC-BAT-1157,Lotus Bloom Soap Bars 100g x72,Personal Care,Bath & Body,Lotus Bloom,Lotus Manufacturing Co.,2025-06-21,Phasing Out,Premium,41,2026-05-23,Carton,586.25,406.58,14
+1158,PF-CAN-1158,Zeina Kitchen Fava Beans (Foul) Can 800g x12,Packaged Food,Canned & Jarred,Zeina Kitchen,Zeina Foods S.A.E,2020-08-25,Active,Standard,9,,Carton,322.5,263.49,14
+1159,HC-DIS-1159,Sparkle Nile Dishwashing Liquid 1.5L x6,Household Cleaning,Dishwashing,Sparkle Nile,Sparkle Foods S.A.E,2024-06-03,Active,Premium,4,,Carton,697.25,504.87,14
+1160,BV-SOF-1160,Bahr Cola Cola Soft Drink 330ml can x24,Beverages,Soft Drinks,Bahr Cola,Bahr Manufacturing Co.,2018-11-08,Active,Standard,10,,Carton,425.0,323.21,14
+1161,BV-SOF-1161,Sunset Juice Lemon-Lime Soda 1.5L x6,Beverages,Soft Drinks,Sunset Juice,Sunset Holding S.A.E,2017-03-19,Active,Premium,3,,Carton,393.75,286.68,14
+1162,PC-ORA-1162,PureSmile Toothpaste 100ml x24,Personal Care ,Oral Care,PureSmile,PureSmile Trading & Industry,2022-09-15,Active,Standard,19,,Carton,469.25,341.81,14
+1163,BV-MAL-1163,Baraka Drinks Malt Drink 250ml x24,Beverages,Malt & Dairy Drinks,Baraka Drinks,Baraka Trading & Industry,2022-02-26,Discontinued,Economy,8,2025-06-20,Carton,334.75,261.56,14
+1164,HC-SUR-1164,Qasr Shine Glass Cleaner 750ml x12,Household Cleaning,Surface Cleaners,Qasr Shine,Qasr Foods S.A.E,2015-04-19,Active,Economy,31,,Carton,530.0,408.03,14
+1165,PF-RAM-1165,Nile Harvest Qamar El-Din Apricot Sheets 250g x24,Packaged Food,Ramadan & Festive,Nile Harvest,Nile Foods S.A.E,2020-02-24,Active,Standard,3,,Carton,292.75,219.26,14
+1166,PF-SNA-1166,Zeina Kitchen Chocolate Bars 100g x24,Packaged Food,Snacks & Biscuits ,Zeina Kitchen,Zeina Foods S.A.E,2016-09-02,Active,Standard,4,,Carton,710.75,532.95,14
+1167,PF-STA-1167,Nile Harvest Sunflower Blend Cooking Oil 1.8L x6,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E ,2020-10-01,Active,Standard,8,,Carton,1093.0,959.68,14
+1168,PF-RAM-1168,Nile Harvest Qamar El-Din Apricot Sheets 500g x12,Packaged Food,Ramadan & Festive,Nile Harvest,Nile Foods S.A.E,2018-09-20,Active,Standard,5,,Carton,290.75,219.64,14
+1169,PC-BAT-1169,Salma Naturals Shower Gel 500ml x12,Personal Care,Bath & Body,Salma Naturals,Salma Group,2016-05-16,Active,Standard,21,,Carton,928.5,606.51,14
+1170,BV-BOT-1170,Sunset Juice Natural Drinking Water 330ml x24,Beverages,Bottled Water,Sunset Juice,Sunset Holding S.A.E,2021-06-22,Active,Premium,4,,Carton,169.75,132.27,14
+1171,BV-COF-1171,Kanzi Soda Instant Coffee Sachets 3-in-1 x48,Beverages,Coffee & Hot Drinks,Kanzi Soda,Kanzi Industries S.A.E,2016-01-04,Active,Economy,4,,Carton,697.75,516.06,14
+1172,BV-MAL-1172,Safwa Drinks Malt Drink 250ml x24,Beverages,Malt & Dairy Drinks,Safwa Drinks,Safwa Manufacturing Co.,2019-08-10,Active,Premium,7,,Carton,526.75,396.79,14
+1173,PF-DAI-1173,Sahara Select UHT Full-Cream Milk 500ml x12,Packaged Food,Dairy & Cheese,Sahara Select,Sahara Manufacturing Co.,2020-08-13,Active,Premium,11,,Carton,374.75,318.98,0
+1174,PP-KIT-1174,Rimal Paper Kitchen Towel Rolls 2 rolls x24,Paper Products,Kitchen Paper,Rimal Paper,Rimal Industries S.A.E,2020-09-03,Active,Economy,35,,Carton,350.25,288.29,14
+1175,PF-CAN-1175,Zeina Kitchen Tuna Chunks Can 80g x48,Packaged Food,Canned & Jarred,Zeina Kitchen,Zeina Foods S.A.E,2016-02-02,Discontinued,Standard,6,2025-10-14,Carton,412.0,333.69,14
+1176,HC-LAU-1176,Lamaa Fabric Softener 2L x6,Household Cleaning,Laundry,Lamaa,Lamaa Trading & Industry,2016-04-08,Active,Premium,23,,Carton,855.25,624.29,14
+1177,PF-STA-1177,Delta Pantry Black Tea 40g x72,Packaged Food,Staples,Delta Pantry,Delta Trading & Industry,2018-06-06,Active,Economy,10,,Carton,177.0,148.9,14
+1178,PP-NAP-1178,CloudSoft Paper Napkins 100 pcs x48,Paper Products ,Napkins,CloudSoft,CloudSoft Group,2023-02-06,Active,Premium,40,,Carton,321.5,248.37,14
+1179,BV-BOT-1179,Kanzi Soda Natural Drinking Water 1.5L x6,Beverages,Bottled Water,Kanzi Soda,Kanzi Industries S.A.E,2017-08-13,Active,Economy,8,,Carton,128.75,104.73,14
+1180,HC-AIR-1180,Misr Fresh Insecticide Spray 300ml x12,Household Cleaning,Air Care & Pest,Misr Fresh,Misr Trading & Industry,2015-11-04,Active,Standard,43,,Carton,753.25,550.52,14
+1181,PF-STA-1181,Amar Foods Black Tea 40g x72,Packaged Food,STAPLES,Amar Foods,Amar Manufacturing Co.,2015-09-25,Active,Economy,9,,Carton,182.25,151.06,14
+1182,ES-BAT-1182,Zahraa Plastics LED Bulbs 9W x48,Personal & Household Essentials,Batteries & Lighting,Zahraa Plastics,Zahraa Foods S.A.E,2016-11-28,Active,Economy,6,,Carton,831.25,601.14,14
+1183,PC-BAT-1183,Aura Nile Soap Bars 100g x72,Personal Care,Bath & Body,Aura Nile,Aura Trading & Industry,2017-01-23,Discontinued,Premium,23,2025-02-02,Carton,430.75,291.55,14
+1184,PF-RAM-1184,Amar Foods Qamar El-Din Apricot Sheets 250g x24,Packaged Food,Ramadan & Festive,Amar Foods,Amar Manufacturing Co.,2019-07-01,Active,Economy,10,,Carton,246.75,194.85,14
+1185,ES-FOI-1185,HomeMate Aluminium Foil 50m x12,Personal & Household Essentials,Foil & Wraps,HomeMate,HomeMate Trading & Industry,2022-03-08,Active,Standard,9,,Carton,523.0,407.45,14
+1186,HC-AIR-1186,Lamaa Insecticide Spray 300ml x12,Household Cleaning,Air Care & Pest,Lamaa,Lamaa Trading & Industry,2017-09-28,Active,Premium,21,,Carton,963.25,658.52,14
+1187,HC-LAU-1187,Nour Home Fabric Softener 2L x6,Household Cleaning,Laundry,Nour Home,Nour Foods S.A.E,2016-10-18,Active,Standard,45,,Carton,655.0,482.76,14
+1188,HC-AIR-1188,Nour Home Insecticide Spray 400ml x12,Household Cleaning,Air Care & Pest,Nour Home,Nour Foods S.A.E,2024-06-26,Active,Standard,6,,Carton,1029.25,748.42,14
+1189,ES-FOI-1189,PowerCell Egypt Aluminium Foil 30m x24,Personal & Household Essentials,Foil & Wraps,PowerCell Egypt,PowerCell Holding S.A.E,2023-10-20,Active,Standard,4,,Carton,519.0,408.32,14
+1190,PC-SKI-1190,Nada Beauty Body Lotion 200ml x12,Personal Care,Skin Care,Nada Beauty,Nada Group,2016-10-01,Active,Economy,32,,Carton,452.5,304.03,14
+1191,HC-SUR-1191,Qasr Shine Glass Cleaner 500ml x12,Household Cleaning,Surface Cleaners,Qasr Shine,Qasr Foods S.A.E,2024-11-29,Active,Economy,17,,Carton,506.75,383.47,14
+1192,PF-DAI-1192,Nile Harvest Processed Cheese Triangles 8 portions x24,Packaged Food,Dairy & Cheese,Nile Harvest,Nile Foods S.A.E,2024-11-28,Active,Standard,10,,Carton,568.5,457.21,14
+1193,PC-SKI-1193,Yasmina Facial Wash 100ml x24,Personal Care,Skin Care,Yasmina,Yasmina Foods S.A.E,2022-09-19,Active,Standard,35,,Carton,571.5,378.57,14
+1194,PC-HAI-1194,Salma Naturals Hair Oil 200ml x12,Personal Care,Hair Care,Salma Naturals,Salma Group,2021-12-13,Discontinued,Standard,37,2025-05-22,Carton,425.75,288.54,14
+1195,PP-TOI-1195,Papyrus Home Toilet Rolls Bundle 2-ply 48 rolls,Paper Products,Toilet Paper,Papyrus Home,Papyrus Foods S.A.E,2023-03-21,Phasing Out,Standard,20,2026-03-18,Carton,499.5,397.05,14
+1196,BV-SOF-1196,Nile Fresh Cola Soft Drink 330ml can x24,Beverages,Soft Drinks,Nile Fresh,Nile Industries S.A.E,2024-09-18,Active,Standard,9,,Carton,468.0,365.11,14
+1197,ES-SCH-1197,HomeMate Pens & Pencils Sets Ballpoint x100,Personal & Household Essentials,School Stationery,HomeMate,HomeMate Trading & Industry,2016-02-23,Active,Standard,11,,Carton,395.25,286.99,14
+1198,PF-RAM-1198,Kemet Foods Sweet Vermicelli 700g x12,Packaged Food,Ramadan & Festive,Kemet Foods,Kemet Group,2023-08-07,Active,Premium,9,,Carton,306.25,243.86,14
+1199,BV-JUI-1199,Sunset Juice Kids Juice Boxes 125ml x40,Beverages,Juices,Sunset Juice,Sunset Holding S.A.E,2023-09-30,Active,Premium,6,,Carton,394.5,294.18,14
+1200,PP-TOI-1200,Softy Nile Toilet Rolls Bundle 2-ply 48 rolls,Paper Products,Toilet Paper,Softy Nile,Softy Manufacturing Co.,2021-02-20,Active,Standard,37,,Carton,502.0,400.42,14
+1201,ES-BAT-1201,Zahraa Plastics AA Alkaline Batteries Card of 4 x48,Personal & Household Essentials,Batteries & Lighting,Zahraa Plastics,Zahraa Foods S.A.E,2023-03-31,Discontinued,Economy,6,2025-08-02,Carton,625.25,458.5,14
+1202,PP-KIT-1202,Delta Paper Kitchen Towel Rolls 2 rolls x24,Paper Products,Kitchen Paper,Delta Paper,Delta Holding S.A.E,2023-06-08,Active,Economy,20,,Carton,351.5,286.77,14
+1203,PF-STA-1203,Kemet Foods Macaroni Pasta 400g x20,Packaged Food,STAPLES,Kemet Foods,Kemet Group,2017-09-04,Discontinued,Premium,4,2025-06-29,Carton,381.0,316.69,0
+1204,PP-SCH-1204,Rimal Paper School Notebooks 60 pages x48,Paper Products,School Paper,Rimal Paper,Rimal Industries S.A.E,2023-12-17,Active,Economy,15,,Carton,331.25,259.3,14
+1205,PC-SKI-1205,Hayat Care Body Lotion 100ml x24,Personal Care,Skin Care,Hayat Care,Hayat Holding S.A.E,2025-08-08,New,Economy,26,,Carton,730.75,485.92,14
+1206,PF-SNA-1206,Baladi Gold Chocolate Bars 25g x48,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2015-06-10,Active,Economy,4,,Carton,269.75,206.47,14
+1207,ES-FOI-1207,PowerCell Egypt Cling Film 100m x12,Personal & Household Essentials,Foil & Wraps,PowerCell Egypt,PowerCell Holding S.A.E,2017-06-17,Active,Standard,4,,Carton,538.75,426.51,14
+1208,BV-SOF-1208,Nile Fresh Cola Soft Drink 1L x12,Beverages,Soft Drinks,Nile Fresh,Nile Industries S.A.E,2025-05-11,New,Standard,10,,Carton,464.75,360.84,14
+1209,BV-ENE-1209,Bahr Cola Energy Drink 250ml x24,Beverages,Energy & Sports,Bahr Cola,Bahr Manufacturing Co.,2020-08-22,Active,Standard,9,,Carton,528.75,398.69,14
+1210,ES-HOU-1210,Zahraa Plastics Garbage Bags Large x30,Personal & Household Essentials,Household Basics,Zahraa Plastics,Zahraa Foods S.A.E,2017-03-13,Active,Economy,3,,Carton,336.0,278.11,14
+1211,PC-BAT-1211,Kemet Care Deodorant Spray 150ml x12,Personal Care,Bath & Body,Kemet Care,Kemet Industries S.A.E,2023-08-24,Active,Premium,43,,Carton,968.25,619.68,14
+1212,PC-ORA-1212,Yasmina Toothbrush Medium x24,Personal Care,Oral Care,Yasmina,Yasmina Foods S.A.E,2021-06-16,Active,Standard,20,,Carton,296.75,189.92,14
+1213,ES-FOI-1213,Zahraa Plastics Cling Film 30m x24,Personal & Household Essentials,Foil & Wraps,Zahraa Plastics,Zahraa Foods S.A.E,2019-10-17,Active,Economy,23,,Carton,338.0,272.59,14
+1214,BV-BOT-1214,Safwa Drinks Natural Drinking Water 330ml x24,Beverages,Bottled Water,Safwa Drinks,Safwa Manufacturing Co.,2017-03-16,Active,Premium,3,,Carton,167.25,132.96,14
+1215,HC-AIR-1215,Sparkle Nile Air Freshener 500ml x12,Household Cleaning,Air Care & Pest,Sparkle Nile,Sparkle Foods S.A.E,2020-10-29,Active,Premium,33,,Carton,1111.75,747.88,14
+1216,PF-STA-1216,Kemet Foods Egyptian Rice 5kg x4,Packaged Food,Staples,Kemet Foods,Kemet Group,2020-05-04,Active,Premium,11,,Carton,1017.75,872.57,0
+1217,PC-HAI-1217,Aura Nile Hair Oil 100ml x24,Personal Care,Hair Care,Aura Nile,Aura Trading & Industry,2018-04-30,Discontinued,Premium,30,2025-10-26,Carton,614.0,392.96,14
+1218,BV-ENE-1218,Bahr Cola Energy Drink 500ml x12,Beverages,Energy & Sports,Bahr Cola,Bahr Manufacturing Co.,2021-05-07,Discontinued,Standard,6,2025-12-11,Carton,635.75,477.28,14
+1219,ES-BAT-1219,Scribe AA Alkaline Batteries Card of 2 x96,Personal & Household Essentials,Batteries & Lighting,Scribe,Scribe Group,2025-09-15,New,Standard,43,,Carton,1119.0,807.42,14
+1220,PF-SNA-1220,Zeina Kitchen Cream Biscuits Single x24,Packaged Food,Snacks & Biscuits,Zeina Kitchen,Zeina Foods S.A.E,2023-09-19,Active,Standard,10,,Carton,192.5,150.59,14
+1221,PF-STA-1221,Delta Pantry Sunflower Blend Cooking Oil 800ml x12,Packaged Food,Staples,Delta Pantry,Delta Trading & Industry,2016-05-15,Active,Economy,6,,Carton,450.25,404.24,14
+1222,PP-DIS-1222,Papyrus Home Paper Cups 9oz x20x50,Paper Products,Disposable Tableware,Papyrus Home,Papyrus Foods S.A.E,2022-04-25,Active,Standard,19,,Carton,359.5,287.13,14
+1223,PC-BAT-1223,Yasmina Soap Bars 100g x72,Personal Care,Bath & Body,Yasmina,Yasmina Foods S.A.E,2018-03-20,Active,Standard,27,,Carton,342.75,247.84,14
+1224,ES-HOU-1224,HomeMate Garbage Bags Medium x40,Personal & Household Essentials,Household Basics,HomeMate,HomeMate Trading & Industry,2016-10-22,Active,Standard,11,,Carton,356.5,284.69,14
+1225,PF-SPI-1225,Baladi Gold Mixed Spice Blend 100g x24,Packaged Food,Spices & Seasoning,Baladi Gold,Baladi Group,2017-07-24,Phasing Out,Economy,6,2026-06-05,Carton,355.5,270.14,14
+1226,PF-BRE-1226,Sahara Select Corn Flakes 250g x12,Packaged Food,Breakfast & Spreads,Sahara Select,Sahara Manufacturing Co.,2017-08-11,Active,Premium,7,,Carton,700.0,521.11,14
+1227,PP-TIS-1227,Rimal Paper Facial Tissue Boxes 150 sheets x36,Paper Products,Tissues,Rimal Paper,Rimal Industries S.A.E,2020-06-23,Active,Economy,45,,Carton,339.25,268.27,14
+1228,PP-TOI-1228,CloudSoft Toilet Rolls Bundle 3-ply 32 rolls,Paper Products,Toilet Paper,CloudSoft,CloudSoft Group,2018-12-17,Active,Premium,29,,Carton,737.75,567.13,14
+1229,PC-HAI-1229,PureSmile Shampoo 200ml x12,Personal Care,Hair Care,PureSmile,PureSmile Trading & Industry,2023-06-12,Active,Standard,18,,Carton,497.5,330.17,14
+1230,ES-SCH-1230,PowerCell Egypt Pens & Pencils Sets Ballpoint x100,Personal & Household Essentials,School Stationery,PowerCell Egypt,PowerCell Holding S.A.E,2015-11-20,Discontinued,Standard,9,2025-04-27,Carton,376.25,267.51,14
+1231,HC-SUR-1231,Qasr Shine Floor Cleaner 1L x12,Household Cleaning,Surface Cleaners,Qasr Shine,Qasr Foods S.A.E,2024-05-30,Active,Economy,28,,Carton,469.75,354.05,14
+1232,PF-RAM-1232,Zeina Kitchen Qamar El-Din Apricot Sheets 500g x12,Packaged Food,Ramadan & Festive,Zeina Kitchen,Zeina Foods S.A.E,2021-06-09,Active,Standard,7,,Carton,289.5,223.86,14
+1233,HC-SUR-1233,Misr Fresh Glass Cleaner 750ml x12,Household Cleaning,Surface Cleaners,Misr Fresh,Misr Trading & Industry,2023-02-04,Active,Standard,9,,Carton,642.0,469.16,14
+1234,HC-SUR-1234,Sparkle Nile Bleach 4L x4,Household Cleaning,Surface Cleaners,Sparkle Nile,Sparkle Foods S.A.E,2022-05-11,Active,Premium,38,,Carton,424.0,318.75,14
+1235,PF-DAI-1235,Al-Waha UHT Full-Cream Milk 250ml x24,Packaged Food,Dairy & Cheese,Al-Waha,AlWaha Holding S.A.E,2024-12-07,Active,Standard,9,,Carton,398.5,339.44,0
+1236,PF-CAN-1236,Baladi Gold Tuna Chunks Can 160g x24,Packaged Food,Canned & Jarred,Baladi Gold,Baladi Group,2018-09-06,Active,Economy,7,,Carton,583.5,478.77,14
+1237,PF-STA-1237,Zeina Kitchen White Sugar 500g x24,Packaged Food,Staples,Zeina Kitchen,Zeina Foods S.A.E,2018-05-24,Active,Standard,8,,Carton,557.5,498.38,0
+1238,PF-DAI-1238,Sahara Select UHT Full-Cream Milk 250ml x24,Packaged Food,Dairy & Cheese,Sahara Select,Sahara Manufacturing Co.,2020-04-20,Active,Premium,8,,Carton,400.75,332.49,0
+1239,PP-KIT-1239,CloudSoft Kitchen Towel Rolls 2 rolls x24,Paper Products,Kitchen Paper,CloudSoft,CloudSoft Group,2022-02-16,Active,Premium,28,,Carton,576.75,451.08,14
+1240,BV-SOF-1240,Safwa Drinks Lemon-Lime Soda 1L x12,Beverages,Soft Drinks,Safwa Drinks,Safwa Manufacturing Co.,2017-11-30,Discontinued,Premium,10,2025-01-16,Carton,472.5,357.66,14
+1241,PC-FEM-1241,Hayat Care Baby Diapers Size 4 x68,Personal Care,Feminine & Baby,Hayat Care,Hayat Holding S.A.E,2025-08-30,New,Economy,36,,Carton,1146.0,963.59,14
+1242,PF-CAN-1242,Nile Harvest Tuna Chunks Can 160g x24,Packaged Food ,Canned & Jarred,Nile Harvest,Nile Foods S.A.E ,2023-03-14,Active,Standard,5,,Carton,753.0,604.97,14
+1243,ES-BAT-1243,Lumina LED Bulbs 9W x48,Personal & Household Essentials,Batteries & Lighting,Lumina,Lumina Group,2025-10-30,New,Premium,5,,Carton,1622.75,1093.08,14
+1244,HC-LAU-1244,Lamaa Laundry Powder 2.5kg x6,Household Cleaning,Laundry,Lamaa,Lamaa Trading & Industry,2020-04-17,Active,Premium,4,,Carton,1029.75,768.1,14
+1245,PF-STA-1245,Al-Waha Sunflower Blend Cooking Oil 1L x12,Packaged Food,Staples,Al-Waha,AlWaha Holding S.A.E,2018-07-23,Active,Standard,5,,Carton,726.25,627.96,14
+1246,HC-SUR-1246,Nour Home Glass Cleaner 500ml x12,Household Cleaning,Surface Cleaners,Nour Home,Nour Foods S.A.E,2015-02-15,Active,Standard,9,,Carton,493.0,362.19,14
+1247,ES-FOI-1247,Scribe Cling Film 100m x12,Personal & Household Essentials,Foil & Wraps,Scribe,Scribe Group ,2018-12-28,Active,Standard,3,,Carton,538.5,430.15,14
+1248,PC-ORA-1248,Salma Naturals Toothbrush Medium x24,Personal Care ,Oral Care,Salma Naturals,Salma Group,2020-01-21,Active,Standard,43,,Carton,297.25,193.09,14
+1249,PF-RAM-1249,Zeina Kitchen Sweet Vermicelli 700g x12,Packaged Food,Ramadan & Festive,Zeina Kitchen,Zeina Foods S.A.E,2015-02-03,Active,Standard,7,,Carton,234.75,195.17,14
+1250,PF-BRE-1250,Nile Harvest Halawa Tahiniya 200g x24,Packaged Food,Breakfast & Spreads,Nile Harvest,Nile Foods S.A.E,2016-01-16,Active,Standard,3,,Carton,394.25,308.86,14
+1251,PF-SNA-1251,Nile Harvest Wafer Bars Twin x24,Packaged Food,Snacks & Biscuits,Nile Harvest, Nile Foods S.A.E,2022-01-21,Active,Standard,7,,Carton,185.5,143.02,14
+1252,ES-HOU-1252,Basma Supplies Matches & Lighters Matches x100,Personal & Household Essentials,Household Basics,Basma Supplies,Basma Manufacturing Co.,2017-12-14,Active,Economy,5,,Carton,95.0,72.11,14
+1253,BV-COF-1253,Kanzi Soda Hibiscus & Herbal Tea Loose 100g x24,Beverages,COFFEE & HOT DRINKS,Kanzi Soda,Kanzi Industries S.A.E,2017-02-01,Active,Economy,9,,Carton,213.5,165.88,14
+1254,PF-STA-1254,Sahara Select Black Tea 250g x24,Packaged Food,Staples,Sahara Select,Sahara Manufacturing Co.,2021-06-26,Active,Premium,6,,Carton,797.5,624.9,14
+1255,ES-HOU-1255,HomeMate Matches & Lighters Lighters x50,Personal & Household Essentials,Household Basics,HomeMate,HomeMate Trading & Industry,2017-01-14,Active,Standard,7,,Carton,163.25,122.71,14
+1256,PP-DIS-1256,Kemet Tissue Paper Cups 9oz x20x50,Paper Products,Disposable Tableware,Kemet Tissue,Kemet Foods S.A.E,2023-04-10,Active,Premium,44,,Carton,461.25,356.49,14
+1257,BV-JUI-1257,Rayyan Beverages Mango Fruit Juice 250ml x24,Beverages,Juices,Rayyan Beverages,Rayyan Foods S.A.E,2020-02-18,Discontinued,Standard,8,2025-10-22,Carton,342.5,268.42,14
+1258,PP-OFF-1258,Delta Paper A4 Copy Paper Reams 500 sheets x5,Paper Products,Office Paper,Delta Paper,Delta Holding S.A.E,2020-05-19,Discontinued,Economy,40,2025-10-17,Carton,769.5,640.73,14
+1259,BV-SOF-1259,Safwa Drinks Cola Soft Drink 330ml can x24,Beverages,Soft Drinks ,Safwa Drinks,Safwa Manufacturing Co.,2022-06-29,Active,Premium,5,,Carton,554.5,416.59,14
+1260,PP-TIS-1260,Softy Nile Facial Tissue Boxes 200 sheets x24,Paper Products,Tissues,Softy Nile,Softy Manufacturing Co.,2017-07-13,Active,Standard,41,,Carton,368.75,289.03,14
+1261,BV-ENE-1261,Baraka Drinks Energy Drink 500ml x12,Beverages,Energy & Sports,Baraka Drinks,Baraka Trading & Industry,2019-01-18,Active,Economy,6,,Carton,514.25,382.08,14
+1262,PF-STA-1262,Zeina Kitchen Black Tea 25 bags x48,Packaged Food,Staples,Zeina Kitchen,Zeina Foods S.A.E,2020-06-10,Active,Standard,7,,Carton,328.25,268.87,14
+1263,BV-SOF-1263,Bahr Cola Lemon-Lime Soda 330ml can x24,Beverages,Soft Drinks,Bahr Cola,Bahr Manufacturing Co.,2015-12-21,Active,Standard,11,,Carton,408.5,317.68,14
+1264,PC-ORA-1264,Yasmina Toothbrush Soft x24,Personal Care,Oral Care,Yasmina,Yasmina Foods S.A.E,2023-01-04,Active,Standard,45,,Carton,300.0,193.9,14
+1265,PC-HAI-1265,Hayat Care Shampoo 400ml x12,Personal Care,Hair Care,Hayat Care,Hayat Holding S.A.E,2020-11-14,Active,Economy,26,,Carton,697.25,466.33,14
+1266,PC-FEM-1266,Yasmina Sanitary Pads Night x24,Personal Care,Feminine & Baby,Yasmina,Yasmina Foods S.A.E,2018-07-02,Discontinued,Standard,16,2025-01-07,Carton,593.75,424.79,14
+1267,PC-HAI-1267,Aura Nile Shampoo 200ml x12,Personal Care,Hair Care,Aura Nile,Aura Trading & Industry,2020-05-28,Active,Premium,19,,Carton,604.0,386.56,14
+1268,BV-BOT-1268,Nile Fresh Natural Drinking Water 330ml x24,Beverages,Bottled Water,Nile Fresh,Nile Industries S.A.E,2025-09-22,New,Standard,10,,Carton,169.25,137.88,14
+1269,ES-SCH-1269,Basma Supplies Pens & Pencils Sets Ballpoint x100,Personal & Household Essentials,School Stationery,Basma Supplies,Basma Manufacturing Co.,2023-04-20,Active,Economy,7,,Carton,308.5,232.69,14
+1270,PF-SNA-1270,Amar Foods Wafer Bars Twin x24,Packaged Food,Snacks & Biscuits,Amar Foods,Amar Manufacturing Co.,2019-11-08,Active,Economy,7,,Carton,148.0,117.62,14
+1271,PF-RAM-1271,Zeina Kitchen Packed Dates 1kg x12,Packaged Food,Ramadan & Festive,Zeina Kitchen,Zeina Foods S.A.E,2017-12-25,Active,Standard,4,,Carton,592.25,469.83,14
+1272,PF-BRE-1272,Delta Pantry Corn Flakes 250g x12,Packaged Food,Breakfast & Spreads,Delta Pantry,Delta Trading & Industry,2017-10-28,Active,Economy,11,,Carton,452.25,363.09,14
+1273,PF-SNA-1273,Kemet Foods Cream Biscuits Mini x48,Packaged Food,Snacks & Biscuits,Kemet Foods,Kemet Group,2019-09-19,Active,Premium,4,,Carton,280.25,214.14,14
+1274,PF-CAN-1274,Amar Foods Tomato Paste 70g x48,Packaged Food,Canned & Jarred,Amar Foods,Amar Manufacturing Co.,2019-12-26,Active,Economy,8,,Carton,189.75,162.99,14
+1275,ES-SCH-1275,Scribe Pens & Pencils Sets Pencil HB x144,Personal & Household Essentials,School Stationery,Scribe,Scribe Group,2020-08-22,Active,Standard,10,,Carton,485.25,359.3,14
+1276,PF-CAN-1276,Al-Waha Tomato Paste 70g x48,Packaged Food,Canned & Jarred,Al-Waha,AlWaha Holding S.A.E,2017-01-31,Active,Standard,3,,Carton,240.5,196.2,14
+1277,BV-SOF-1277,Nile Fresh Lemon-Lime Soda 1.5L x6,Beverages,Soft Drinks,Nile Fresh,Nile Industries S.A.E,2024-02-23,Active,Standard,6,,Carton,333.5,263.0,14
+1278,HC-LAU-1278,Misr Fresh Laundry Powder 2.5kg x6,Household Cleaning,Laundry,Misr Fresh,Misr Trading & Industry,2016-12-26,Active,Standard,44,,Carton,827.0,614.29,14
+1279,PF-DAI-1279,Nile Harvest Tinned Feta Cheese 2kg x4,Packaged Food,Dairy & Cheese,Nile Harvest,Nile Foods S.A.E,2017-09-28,Active,Standard,9,,Carton,791.25,635.12,14
+1280,PF-BRE-1280,Sahara Select Strawberry Jam 700g x6,Packaged Food,Breakfast & Spreads,Sahara Select,Sahara Manufacturing Co.,2022-04-24,Active,Premium,5,,Carton,447.0,342.35,14
+1281,PF-RAM-1281,Sahara Select Packed Dates 1kg x12,Packaged Food,Ramadan & Festive,Sahara Select,Sahara Manufacturing Co.,2018-12-29,Active,Premium,10,,Carton,771.75,592.58,14
+1282,PF-DAI-1282,Kemet Foods Processed Cheese Triangles 16 portions x12,Packaged Food,Dairy & Cheese,Kemet Foods,Kemet Group,2021-04-06,Discontinued,Premium,5,2025-11-23,Carton,568.5,433.72,14
+1283,ES-FOI-1283,Zahraa Plastics Cling Film 100m x12,Personal & Household Essentials,Foil & Wraps ,Zahraa Plastics,Zahraa Foods S.A.E,2017-01-31,Discontinued,Economy,6,2025-08-29,Carton,478.25,392.13,14
+1284,HC-AIR-1284,Qasr Shine Air Freshener 500ml x12,Household Cleaning,Air Care & Pest,Qasr Shine,Qasr Foods S.A.E,2018-07-09,Discontinued,Economy,42,2025-07-19,Carton,772.0,567.55,14
+1285,PC-SKI-1285,Yasmina Body Lotion 100ml x24,Personal Care,Skin Care,Yasmina,Yasmina Foods S.A.E,2015-10-26,Discontinued,Standard,17,2025-07-24,Carton,647.25,419.62,14
+1286,PF-SNA-1286,Zeina Kitchen Wafer Bars Twin x24,Packaged Food,Snacks & Biscuits,Zeina Kitchen,Zeina Foods S.A.E,2024-06-13,Active,Standard,10,,Carton,196.0,151.13,14
+1287,PP-KIT-1287,Softy Nile Kitchen Towel Rolls 1 roll x24,Paper Products,Kitchen Paper,Softy Nile,Softy Manufacturing Co.,2015-02-09,Active,Standard,25,,Carton,268.75,214.39,14
+1288,PC-FEM-1288,PureSmile Baby Diapers Size 3 x72,Personal Care,Feminine & Baby,PureSmile,PureSmile Trading & Industry,2020-01-16,Active,Standard,36,,Carton,969.5,790.21,14
+1289,ES-FOI-1289,PowerCell Egypt Cling Film 30m x24,Personal & Household Essentials,Foil & Wraps,PowerCell Egypt,PowerCell Holding S.A.E,2022-10-28,Active,Standard,4,,Carton,435.5,341.49,14
+1290,BV-MAL-1290,Kanzi Soda Malt Drink 250ml x24,Beverages,Malt & Dairy Drinks,Kanzi Soda,Kanzi Industries S.A.E,2016-01-31,Active,Economy,9,,Carton,319.75,258.96,14
+1291,HC-SUR-1291,Baraka Clean Glass Cleaner 500ml x12,Household Cleaning,Surface Cleaners,Baraka Clean,Baraka Trading & Industry,2019-05-23,Active,Economy,40,,Carton,386.0,303.63,14
+1292,PF-STA-1292,Zeina Kitchen Macaroni Pasta 350g x24,Packaged Food,Staples,Zeina Kitchen,Zeina Foods S.A.E,2018-03-06,Active,Standard,3,,Carton,320.25,272.3,0
+1293,PF-RAM-1293,Zeina Kitchen Packed Dates 400g x24,Packaged Food,Ramadan & Festive,Zeina Kitchen,Zeina Foods S.A.E,2025-01-21,Active,Standard,7,,Carton,613.5,479.38,14
+1294,ES-BAT-1294,HomeMate LED Bulbs 9W x48,Personal & Household Essentials,Batteries & Lighting,HomeMate, HomeMate Trading & Industry,2019-04-24,Active,Standard,6,,Carton,1038.5,755.71,14
+1295,HC-SUR-1295,Sparkle Nile Floor Cleaner 1L x12,Household Cleaning,Surface Cleaners,Sparkle Nile,Sparkle Foods S.A.E,2023-02-16,Active,Premium,31,,Carton,660.75,489.61,14
+1296,PF-BRE-1296,Baladi Gold Halawa Tahiniya 350g x12,Packaged Food,Breakfast & Spreads,Baladi Gold,Baladi Group,2024-09-25,Active,Economy,7,,Carton,310.5,253.65,14
+1297,BV-COF-1297,Baraka Drinks Hibiscus & Herbal Tea Loose 100g x24,Beverages,Coffee & Hot Drinks,Baraka Drinks,Baraka Trading & Industry,2024-11-07,Active,Economy,6,,Carton,249.5,201.56,14
+1298,PC-ORA-1298,Kemet Care Toothbrush Soft x24,Personal Care,Oral Care,Kemet Care,Kemet Industries S.A.E,2017-04-11,Phasing Out,Premium,39,2026-05-05,Carton,370.25,236.96,14
+1299,BV-MAL-1299,Sunset Juice Malt Drink 330ml can x24,Beverages,Malt & Dairy Drinks,Sunset Juice,Sunset Holding S.A.E,2022-09-09,Active,Premium,10,,Carton,622.25,460.77,14
+1300,PP-KIT-1300,Papyrus Home Kitchen Towel Rolls 1 roll x24,Paper Products ,Kitchen Paper,Papyrus Home,Papyrus Foods S.A.E,2024-02-06,Active,Standard,26,,Carton,260.5,208.64,14
+1301,PP-TOI-1301,Delta Paper Toilet Rolls Bundle 3-ply 32 rolls,Paper Products,Toilet Paper,Delta Paper,Delta Holding S.A.E,2022-02-15,Active,Economy,40,,Carton,466.5,382.38,14
+1302,HC-SUR-1302,Qasr Shine Bleach 2L x6,Household Cleaning,Surface Cleaners,Qasr Shine,Qasr Foods S.A.E,2021-03-19,Active,Economy,3,,Carton,239.25,192.84,14
+1303,PC-HAI-1303,Salma Naturals Shampoo 400ml x12,Personal Care,Hair Care,Salma Naturals,Salma Group,2020-04-26,Active,Standard,20,,Carton,877.25,591.39,14
+1304,HC-LAU-1304,Misr Fresh Liquid Laundry Detergent 3L x4,Household Cleaning,Laundry,Misr Fresh,Misr Trading & Industry,2021-07-15,Active,Standard,45,,Carton,798.75,594.06,14
+1305,PP-SCH-1305,Kemet Tissue School Notebooks 60 pages x48,Paper Products,School Paper,Kemet Tissue,Kemet Foods S.A.E,2019-01-02,Active,Premium,27,,Carton,530.0,390.83,14
+1306,PF-SNA-1306,Baladi Gold Cream Biscuits Family x12,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2023-11-09,Active,Economy,4,,Carton,145.0,115.68,14
+1307,PF-DAI-1307,Sahara Select Tinned Feta Cheese 900g x6,Packaged Food,Dairy & Cheese,Sahara Select,Sahara Manufacturing Co.,2021-02-15,Active,Premium,6,,Carton,748.25,598.88,14
+1308,PF-BRE-1308,Baladi Gold Halawa Tahiniya 200g x24,Packaged Food,Breakfast & Spreads,Baladi Gold,Baladi Group,2016-02-22,Active,Economy,11,,Carton,298.5,246.32,14
+1309,PF-BRE-1309,Amar Foods Strawberry Jam 340g x12,Packaged Food,Breakfast & Spreads,Amar Foods,Amar Manufacturing Co.,2019-12-02,Phasing Out,Economy,6,2026-06-04,Carton,300.0,237.53,14
+1310,PC-FEM-1310,PureSmile Baby Diapers Size 5 x60,Personal Care,Feminine & Baby,PureSmile,PureSmile Trading & Industry,2023-03-14,Active,Standard,25,,Carton,1079.75,871.32,14
+1311,BV-COF-1311,Nile Fresh Hot Cocoa & Sahlab Mix Tub 450g x12,Beverages,Coffee & Hot Drinks,Nile Fresh,Nile Industries S.A.E ,2021-01-25,Active,Standard,7,,Carton,431.5,324.24,14
+1312,PF-RAM-1312,Sahara Select Qamar El-Din Apricot Sheets 250g x24,Packaged Food,Ramadan & Festive,Sahara Select,Sahara Manufacturing Co.,2016-11-24,Active,Premium,6,,Carton,402.25,300.44,14
+1313,PP-OFF-1313,Rimal Paper A4 Copy Paper Reams 500 sheets x10,Paper Products,Office Paper,Rimal Paper,Rimal Industries S.A.E,2023-09-05,Discontinued,Economy,36,2025-07-20,Carton,1495.5,1241.21,14
+1314,ES-FOI-1314,Scribe Aluminium Foil 30m x24,personal & household essentials,Foil & Wraps,Scribe,Scribe Group,2022-09-04,Active,Standard,8,,Carton,531.0,415.43,14
+1315,PC-SKI-1315,Aura Nile Facial Wash 150ml x12,Personal Care,Skin Care,Aura Nile,Aura Trading & Industry,2024-12-17,Active,Premium,45,,Carton,728.5,466.24,14
+1316,PP-DIS-1316,Delta Paper Paper Cups 9oz x20x50,Paper Products,Disposable Tableware,Delta Paper,Delta Holding S.A.E,2015-01-27,Active,Economy,40,,Carton,292.25,242.61,14
+1317,PF-RAM-1317,Delta Pantry Packed Dates 1kg x12,Packaged Food,Ramadan & Festive,Delta Pantry,Delta Trading & Industry,2021-07-18,Active,Economy,11,,Carton,461.0,376.85,14
+1318,PF-STA-1318,Delta Pantry Macaroni Pasta 350g x24,Packaged Food,Staples,Delta Pantry,Delta Trading & Industry,2021-08-18,Active,Economy,6,,Carton,249.75,219.23,0
+1319,PF-RAM-1319,Sahara Select Sweet Vermicelli 700g x12,Packaged Food,Ramadan & Festive,Sahara Select,Sahara Manufacturing Co.,2019-07-03,Active,Premium,8,,Carton,298.5,235.86,14
+1320,PF-CAN-1320,Delta Pantry Fava Beans (Foul) Can 400g x24,Packaged Food,Canned & Jarred,Delta Pantry,Delta Trading & Industry,2019-03-30,Phasing Out,Economy,9,2026-06-07,Carton,257.75,216.55,14
+1321,ES-BAT-1321,HomeMate LED Bulbs 12W x48,Personal & Household Essentials,Batteries & Lighting,HomeMate,HomeMate Trading & Industry,2016-03-18,Active,Standard,5,,Carton,1210.25,869.15,14
+1322,HC-LAU-1322,Misr Fresh Fabric Softener 1L x12,Household Cleaning,Laundry,Misr Fresh,Misr Trading & Industry,2017-05-11,Discontinued,Standard,5,2025-10-26,Carton,651.0,478.72,14
+1323,PF-SNA-1323,Baladi Gold Cream Biscuits Mini x48,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2019-09-14,Active,Economy,10,,Carton,178.5,143.5,14
+1324,PF-SNA-1324,Nile Harvest Cream Biscuits Mini x48,Packaged Food,Snacks & Biscuits,Nile Harvest,Nile Foods S.A.E,2022-09-28,Active,Standard,11,,Carton,211.5,166.23,14
+1325,PC-SKI-1325,Hayat Care Body Lotion 400ml x12,Personal Care,Skin Care,Hayat Care,Hayat Holding S.A.E,2018-03-10,Active,Economy,28,,Carton,811.0,542.62,14
+1326,PF-DAI-1326,Baladi Gold UHT Full-Cream Milk 250ml x24,Packaged Food,Dairy & Cheese,Baladi Gold,Baladi Group,2022-10-19,Active,Economy,3,,Carton,257.0,226.13,0
+1327,HC-AIR-1327,Qasr Shine Air Freshener 300ml x12,Household Cleaning,Air Care & Pest,Qasr Shine,Qasr Foods S.A.E,2023-11-13,Active,Economy,14,,Carton,484.5,345.68,14
+1328,PC-BAT-1328,Nada Beauty Deodorant Spray 150ml x12,Personal Care,Bath & Body,Nada Beauty,Nada Group,2018-05-17,Active,Economy,8,,Carton,667.5,461.36,14
+1329,PF-CAN-1329,Al-Waha Fava Beans (Foul) Can 400g x24,Packaged Food,Canned & Jarred,Al-Waha,AlWaha Holding S.A.E,2015-10-22,Active,Standard,9,,Carton,341.0,283.04,14
+1330,HC-LAU-1330,Baraka Clean Liquid Laundry Detergent 1L x12,Household Cleaning,LAUNDRY,Baraka Clean,Baraka Trading & Industry,2016-10-27,Active,Economy,44,,Carton,643.25,496.43,14
+1331,PP-OFF-1331,CloudSoft A4 Copy Paper Reams 500 sheets x5,Paper Products,Office Paper,CloudSoft, CloudSoft Group,2019-02-21,Active,Premium,30,,Carton,1185.75,959.35,14
+1332,PF-CAN-1332,Amar Foods Tuna Chunks Can 1.7kg x6,Packaged Food,Canned & Jarred,Amar Foods,Amar Manufacturing Co.,2022-12-29,Active,Economy,11,,Carton,935.25,777.59,14
+1333,PF-DAI-1333,Zeina Kitchen Processed Cheese Triangles 8 portions x24,Packaged Food,Dairy & Cheese,Zeina Kitchen,Zeina Foods S.A.E,2020-06-04,Active,Standard,9,,Carton,459.0,370.21,14
+1334,BV-SOF-1334,Sunset Juice Lemon-Lime Soda 330ml can x24,Beverages,Soft Drinks,Sunset Juice,Sunset Holding S.A.E,2021-05-09,Active,Premium,11,,Carton,532.0,401.57,14
+1335,PP-OFF-1335,Kemet Tissue A4 Copy Paper Reams 500 sheets x10,Paper Products,Office Paper,Kemet Tissue,Kemet Foods S.A.E,2019-09-15,Active,Premium,28,,Carton,2207.5,1772.05,14
+1336,PF-SNA-1336,Sahara Select Potato Chips 30g x48,Packaged Food,Snacks & Biscuits,Sahara Select,Sahara Manufacturing Co.,2019-04-27,Active,Premium,8,,Carton,266.5,198.02,14
+1337,BV-JUI-1337,Safwa Drinks Kids Juice Boxes 125ml x40,Beverages,Juices,Safwa Drinks,Safwa Manufacturing Co.,2015-08-31,Active,Premium,8,,Carton,397.25,309.52,14
+1338,PP-TOI-1338,Softy Nile Toilet Rolls Bundle 3-ply 32 rolls,Paper Products,Toilet Paper,Softy Nile,Softy Manufacturing Co.,2024-11-08,Active,Standard,31,,Carton,722.5,580.62,14
+1339,PC-BAT-1339,Kemet Care Shower Gel 500ml x12,Personal Care ,Bath & Body,Kemet Care,Kemet Industries S.A.E,2019-12-19,Active,Premium,3,,Carton,1222.0,782.08,14
+1340,ES-SCH-1340,Scribe Pens & Pencils Sets Ballpoint x100,Personal & Household Essentials,School Stationery,Scribe, Scribe Group,2017-04-20,Active,Standard,10,,Carton,365.25,270.06,14
+1341,BV-JUI-1341,Bahr Cola Mango Fruit Juice 1.5L x6,Beverages,Juices,Bahr Cola,Bahr Manufacturing Co.,2016-05-05,Active,Standard,4,,Carton,387.25,305.47,14
+1342,PC-HAI-1342,PureSmile Shampoo 700ml x6,Personal Care,Hair Care,PureSmile,PureSmile Trading & Industry,2017-12-04,Active,Standard,42,,Carton,860.0,579.89,14
+1343,ES-BAT-1343,Scribe LED Bulbs 9W x48,Personal & Household Essentials,Batteries & Lighting,Scribe,Scribe Group,2020-11-22,Active,Standard,11,,Carton,957.75,677.57,14
+1344,BV-BOT-1344,Nile Fresh Natural Drinking Water 600ml x12,Beverages,Bottled Water,Nile Fresh,Nile Industries S.A.E,2020-06-29,Active,Standard,3,,Carton,125.75,101.94,14
+1345,PF-RAM-1345,Al-Waha Packed Dates 200g x48,Packaged Food,Ramadan & Festive,Al-Waha, AlWaha Holding S.A.E,2018-08-18,Active,Standard,7,,Carton,437.0,345.99,14
+1346,HC-AIR-1346,Sparkle Nile Air Freshener 300ml x12,Household Cleaning,Air Care & Pest,Sparkle Nile,Sparkle Foods S.A.E,2025-07-17,New,Premium,18,,Carton,1029.5,702.49,14
+1347,PF-CAN-1347,Nile Harvest Fava Beans (Foul) Can 800g x12,Packaged Food,Canned & Jarred,Nile Harvest,Nile Foods S.A.E,2021-04-25,Active,Standard,5,,Carton,322.0,268.03,14
+1348,BV-BOT-1348,Rayyan Beverages Natural Drinking Water 600ml x12,Beverages,Bottled Water,Rayyan Beverages,Rayyan Foods S.A.E,2018-06-25,Active,Standard,5,,Carton,114.25,92.06,14
+1349,HC-LAU-1349,Misr Fresh Fabric Softener 2L x6,Household Cleaning,Laundry,Misr Fresh,Misr Trading & Industry,2023-02-24,Active,Standard,39,,Carton,650.5,481.94,14
+1350,BV-COF-1350,Kanzi Soda Hot Cocoa & Sahlab Mix Sachets x48,Beverages,Coffee & Hot Drinks,Kanzi Soda,Kanzi Industries S.A.E,2016-08-15,Active,Economy,5,,Carton,260.5,198.75,14
+1351,PF-STA-1351,Baladi Gold Sunflower Blend Cooking Oil 800ml x12,Packaged Food,Staples,Baladi Gold,Baladi Group,2022-04-10,Active,Economy,11,,Carton,448.5,407.07,14
+1352,HC-AIR-1352,Qasr Shine Insecticide Spray 400ml x12,Household Cleaning,Air Care & Pest,Qasr Shine,Qasr Foods S.A.E,2024-07-15,Active,Economy,44,,Carton,867.25,631.25,14
+1353,PF-STA-1353,Kemet Foods Black Tea 40g x72,Packaged Food,Staples,Kemet Foods,Kemet Group,2020-07-12,Active,Premium,4,,Carton,275.0,214.73,14
+1354,PP-NAP-1354,CloudSoft Paper Napkins 200 pcs x24,Paper Products,Napkins,CloudSoft,CloudSoft Group,2021-04-27,Active,Premium,22,,Carton,329.5,261.71,14
+1355,HC-LAU-1355,Nour Home Fabric Softener 1L x12,Household Cleaning,Laundry,Nour Home,Nour Foods S.A.E,2017-11-26,Active,Standard,29,,Carton,640.75,477.74,14
+1356,PF-STA-1356,Baladi Gold Black Tea 100g x36,Packaged Food,Staples,Baladi Gold,Baladi Group,2023-06-13,Active,Economy,11,,Carton,282.25,235.19,14
+1357,BV-JUI-1357,Safwa Drinks Kids Juice Boxes 200ml x27,Beverages,Juices,Safwa Drinks,Safwa Manufacturing Co.,2023-08-21,Active,Premium,10,,Carton,475.75,359.76,14
+1358,PC-FEM-1358,PureSmile Sanitary Pads Night x24,Personal Care,Feminine & Baby,PureSmile,PureSmile Trading & Industry,2017-06-27,Active,Standard,25,,Carton,548.0,394.47,14
+1359,BV-SOF-1359,Baraka Drinks Lemon-Lime Soda 330ml can x24,Beverages,Soft Drinks,Baraka Drinks,Baraka Trading & Industry,2024-11-01,Active,Economy,9,,Carton,385.25,304.83,14
+1360,PF-RAM-1360,Nile Harvest Sweet Vermicelli 700g x12,Packaged Food,Ramadan & Festive,Nile Harvest,Nile Foods S.A.E,2019-10-21,Active,Standard,8,,Carton,239.0,195.13,14
+1361,BV-SOF-1361,Kanzi Soda Lemon-Lime Soda 1.5L x6,Beverages,Soft Drinks,Kanzi Soda,Kanzi Industries S.A.E,2022-07-17,Active,Economy,9,,Carton,253.0,202.09,14
+1362,BV-JUI-1362,Safwa Drinks Mango Fruit Juice 1L x12,Beverages,Juices,Safwa Drinks,Safwa Manufacturing Co.,2018-08-30,Phasing Out,Premium,9,2026-04-28,Carton,546.25,421.43,14
+1363,PP-DIS-1363,Delta Paper Paper Cups 7oz x20x50,Paper Products,Disposable Tableware,Delta Paper,Delta Holding S.A.E,2024-09-01,Active,Economy,45,,Carton,296.75,242.28,14
+1364,PF-SNA-1364,Delta Pantry Potato Chips 50g x24,Packaged Food,Snacks & Biscuits,Delta Pantry,Delta Trading & Industry,2015-12-23,Discontinued,Economy,6,2025-06-07,Carton,205.0,164.61,14
+1365,PC-SKI-1365,Salma Naturals Body Lotion 100ml x24,Personal Care,Skin Care,Salma Naturals,Salma Group,2023-08-31,Active,Standard,23,,Carton,610.75,390.88,14
+1366,HC-AIR-1366,Baraka Clean Insecticide Spray 300ml x12,Household Cleaning,Air Care & Pest,Baraka Clean,Baraka Trading & Industry ,2016-12-22,Active,Economy,4,,Carton,607.25,454.07,14
+1367,PF-SNA-1367,Baladi Gold Wafer Bars Single x36,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2022-03-12,Active,Economy,7,,Carton,148.5,116.33,14
+1368,PF-DAI-1368,Kemet Foods Tinned Feta Cheese 400g x12,Packaged Food,Dairy & Cheese,Kemet Foods,Kemet Group,2023-02-17,Active,Premium,6,,Carton,681.5,534.95,14
+1369,PC-HAI-1369,Kemet Care Hair Oil 100ml x24,Personal Care,Hair Care,Kemet Care,Kemet Industries S.A.E,2019-07-08,Active,Premium,30,,Carton,638.5,415.66,14
+1370,PF-STA-1370,Amar Foods White Sugar 500g x24,Packaged Food,Staples,Amar Foods,Amar Manufacturing Co.,2017-01-17,Discontinued,Economy,10,2025-10-21,Carton,419.0,382.88,0
+1371,PC-BAT-1371,Aura Nile Deodorant Spray 200ml x12,Personal Care,Bath & Body,Aura Nile,Aura Trading & Industry,2015-09-01,Active,Premium,32,,Carton,1302.5,833.6,14
+1372,PF-RAM-1372,Kemet Foods Qamar El-Din Apricot Sheets 250g x24,Packaged Food,Ramadan & Festive,Kemet Foods,Kemet Group,2025-09-19,New,Premium,10,,Carton,494.75,366.2,14
+1373,PF-DAI-1373,Baladi Gold Processed Cheese Triangles 120g tub x24,Packaged Food,Dairy & Cheese,Baladi Gold,Baladi Group,2019-12-05,Active,Economy,4,,Carton,486.5,396.6,14
+1374,HC-LAU-1374,Qasr Shine Liquid Laundry Detergent 2L x6,Household Cleaning,Laundry,Qasr Shine,Qasr Foods S.A.E ,2016-12-17,Active,Economy,34,,Carton,681.0,534.73,14
+1375,PF-CAN-1375,Baladi Gold Fava Beans (Foul) Can 800g x12,Packaged Food,Canned & Jarred,Baladi Gold,Baladi Group,2025-08-06,New,Economy,9,,Carton,315.25,273.26,14
+1376,HC-AIR-1376,Misr Fresh Air Freshener 500ml x12,Household Cleaning,Air Care & Pest,Misr Fresh,Misr Trading & Industry,2022-11-25,Active,Standard,5,,Carton,886.75,634.07,14
+1377,PF-RAM-1377,Amar Foods Sweet Vermicelli 700g x12,Packaged Food,Ramadan & Festive,Amar Foods,Amar Manufacturing Co.,2017-01-18,Active,Economy,8,,Carton,188.0,159.57,14
+1378,PF-BRE-1378,Sahara Select Halawa Tahiniya 900g x6,Packaged Food,Breakfast & Spreads,Sahara Select,Sahara Manufacturing Co.,2024-08-20,Active,Premium,8,,Carton,622.5,476.7,14
+1379,HC-DIS-1379,Lamaa Dishwashing Liquid 500ml x24,Household Cleaning,Dishwashing,Lamaa,Lamaa Trading & Industry,2017-11-09,Discontinued,Premium,33,2025-03-31,Carton,531.75,393.85,14
+1380,PF-CAN-1380,Delta Pantry Tuna Chunks Can 1.7kg x6,Packaged Food,Canned & Jarred,Delta Pantry,Delta Trading & Industry,2017-02-10,Active,Economy,3,,Carton,954.75,791.64,14
+1381,PP-SCH-1381,CloudSoft School Notebooks 40 pages x60,Paper Products,School Paper,CloudSoft,CloudSoft Group,2025-05-19,New,Premium,22,,Carton,570.75,417.93,14
+1382,PP-DIS-1382,Rimal Paper Paper Cups 9oz x20x50,Paper Products,Disposable Tableware,Rimal Paper,Rimal Industries S.A.E,2017-09-23,Active,Economy,44,,Carton,290.0,241.8,14
+1383,ES-FOI-1383,Lumina Aluminium Foil 30m x24,Personal & Household Essentials,Foil & Wraps,Lumina,Lumina Group,2020-02-14,Active,Premium,28,,Carton,682.5,520.8,14
+1384,PF-CAN-1384,Zeina Kitchen Tomato Paste 135g x24,Packaged Food,Canned & Jarred,Zeina Kitchen,Zeina Foods S.A.E,2025-09-07,New,Standard,3,,Carton,447.0,360.5,14
+1385,PP-KIT-1385,Delta Paper Kitchen Towel Rolls 1 roll x24,Paper Products,Kitchen Paper,Delta Paper,Delta Holding S.A.E ,2016-11-18,Active,Economy,33,,Carton,221.0,187.34,14
+1386,PF-BRE-1386,Nile Harvest Corn Flakes 250g x12,Packaged Food,Breakfast & Spreads,Nile Harvest,Nile Foods S.A.E,2019-12-27,Discontinued,Standard,5,2024-11-25,Carton,567.25,443.92,14
+1387,PF-BRE-1387,Sahara Select Halawa Tahiniya 200g x24,Packaged Food,Breakfast & Spreads,Sahara Select,Sahara Manufacturing Co.,2019-02-03,Active,Premium,6,,Carton,498.5,384.66,14
+1388,HC-LAU-1388,Sparkle Nile Fabric Softener 2L x6,Household Cleaning,Laundry,Sparkle Nile,Sparkle Foods S.A.E,2018-10-11,Active,Premium,18,,Carton,845.25,602.48,14
+1389,PC-FEM-1389,Salma Naturals Baby Diapers Size 4 x68,Personal Care,Feminine & Baby,Salma Naturals,Salma Group,2020-05-13,Active,Standard,40,,Carton,988.0,794.57,14
+1390,PC-SKI-1390,Aura Nile Facial Wash 100ml x24,Personal Care,Skin Care,Aura Nile,Aura Trading & Industry,2015-01-20,Active,Premium,43,,Carton,720.75,461.28,14
+1391,PF-BRE-1391,Amar Foods Corn Flakes 250g x12,Packaged Food,Breakfast & Spreads,Amar Foods,Amar Manufacturing Co.,2021-01-01,Active,Economy,10,,Carton,440.5,355.86,14
+1392,PF-BRE-1392,Nile Harvest Strawberry Jam 340g x12,Packaged Food,Breakfast & Spreads,Nile Harvest,Nile Foods S.A.E,2020-09-22,Active,Standard,7,,Carton,381.25,295.82,14
+1393,PF-SNA-1393,Nile Harvest Chocolate Bars 40g x24,Packaged Food,Snacks & Biscuits,Nile Harvest,Nile Foods S.A.E,2022-06-24,Active,Standard,10,,Carton,363.75,269.27,14
+1394,PF-SNA-1394,Baladi Gold Chocolate Bars 100g x24,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2017-05-01,Active,Economy,10,,Carton,588.5,464.42,14
+1395,PP-TIS-1395,Softy Nile Facial Tissue Boxes 100 sheets x36,Paper Products,Tissues,Softy Nile,Softy Manufacturing Co.,2024-10-26,Active,Standard,32,,Carton,400.0,309.93,14
+1396,PF-RAM-1396,Baladi Gold Qamar El-Din Apricot Sheets 250g x24,Packaged Food,Ramadan & Festive,Baladi Gold,Baladi Group,2024-09-24,Active,Economy,8,,Carton,294.25,231.63,14
+1397,PF-DAI-1397,Delta Pantry Tinned Feta Cheese 400g x12,Packaged Food,Dairy & Cheese,Delta Pantry,Delta Trading & Industry,2016-08-30,Active,Economy,5,,Carton,450.0,385.91,14
+1398,PF-SPI-1398,Sahara Select Mixed Spice Blend 100g x24,Packaged Food,Spices & Seasoning,Sahara Select,Sahara Manufacturing Co.,2016-11-24,Discontinued,Premium,6,2025-08-07,Carton,554.0,397.6,14
+1399,ES-HOU-1399,Zahraa Plastics Matches & Lighters Matches x100,Personal & Household Essentials,Household Basics,Zahraa Plastics,Zahraa Foods S.A.E,2025-04-18,Phasing Out,Economy,7,2026-02-28,Carton,121.0,93.41,14
+1400,PC-FEM-1400,Hayat Care Baby Diapers Size 3 x72,Personal Care,Feminine & Baby,Hayat Care,Hayat Holding S.A.E,2016-05-02,Active,Economy,20,,Carton,816.0,671.28,14
+1401,PF-STA-1401,Sahara Select Egyptian Rice 500g x24,Packaged Food,Staples,Sahara Select,Sahara Manufacturing Co.,2016-09-18,Active,Premium,5,,Carton,609.75,527.7,0
+1402,PF-RAM-1402,Amar Foods Packed Dates 400g x24,Packaged Food,Ramadan & Festive,Amar Foods,Amar Manufacturing Co.,2017-03-12,Active,Economy,9,,Carton,409.75,332.64,14
+1403,PF-SNA-1403,Baladi Gold Potato Chips 30g x48,Packaged Food,Snacks & Biscuits,Baladi Gold,Baladi Group,2016-01-13,Active,Economy,4,,Carton,172.25,136.07,14
+1404,PC-BAT-1404,PureSmile Soap Bars 100g x72,Personal Care,Bath & Body ,PureSmile,PureSmile Trading & Industry,2018-12-10,Active,Standard,33,,Carton,331.5,230.89,14
+1405,PF-STA-1405,Al-Waha Sunflower Blend Cooking Oil 2.2L x6,Packaged Food,Staples,Al-Waha,AlWaha Holding S.A.E ,2018-10-04,Active,Standard,9,,Carton,1357.25,1210.85,14
+1406,PP-TIS-1406,Papyrus Home Facial Tissue Boxes 100 sheets x36,Paper Products,Tissues,Papyrus Home,Papyrus Foods S.A.E,2015-03-03,Active,Standard,32,,Carton,327.5,257.05,14
+1407,BV-COF-1407,Sunset Juice Hot Cocoa & Sahlab Mix Sachets x48,Beverages,Coffee & Hot Drinks,Sunset Juice,Sunset Holding S.A.E,2019-04-08,Active,Premium,4,,Carton,411.25,297.73,14
+1408,PP-TIS-1408,Softy  Nile Facial Tissue Boxes 150 sheets x36,Paper Products,Tissues,Softy Nile,Softy Manufacturing Co.,2021-03-31,Active,Standard,23,,Carton,380.5,299.92,14
+1409,PF-DAI-1409,Zeina Kitchen Processed Cheese Triangles 120g tub x24,Packaged Food,Dairy & Cheese,Zeina Kitchen,Zeina Foods S.A.E,2016-02-13,Discontinued,Standard,9,2025-04-28,Carton,597.25,473.09,14
+1410,BV-JUI-1410,Sunset Juice Kids Juice Boxes 200ml x27,Beverages,Juices,Sunset Juice,Sunset Holding S.A.E,2022-03-04,Active,Premium,11,,Carton,447.5,336.91,14
+1411,HC-AIR-1411,Nour Home Air Freshener 500ml x12,Household Cleaning,Air Care & Pest,Nour Home,Nour Foods S.A.E,2024-02-11,Active,Standard,19,,Carton,938.25,675.65,14
+1412,PF-RAM-1412,Sahara Select Qamar El-Din Apricot Sheets 500g x12,Packaged Food,Ramadan & Festive,Sahara Select,Sahara Manufacturing Co.,2020-06-20,Discontinued,Premium,5,2025-07-28,Carton,346.75,261.5,14
+1413,BV-MAL-1413,Nile Fresh Malt Drink 250ml x24,Beverages,Malt & Dairy Drinks,Nile Fresh,Nile Industries S.A.E,2017-04-07,Active,Standard,8,,Carton,401.25,309.1,14
+1414,PF-DAI-1414,Delta Pantry UHT Full-Cream Milk 250ml x24,Packaged Food,Dairy & Cheese,Delta Pantry,Delta Trading & Industry,2016-04-07,Active,Economy,4,,Carton,260.0,232.13,0
+1415,PC-FEM-1415,Kemet Care Baby Diapers Size 5 x60,Personal Care,Feminine & Baby,Kemet Care,Kemet Industries S.A.E,2015-09-12,Active,Premium,10,,Carton,1379.5,1065.23,14
+1416,BV-SOF-1416,Safwa Drinks Cola Soft Drink 1L x12,Beverages,Soft Drinks,Safwa Drinks,Safwa Manufacturing Co.,2016-01-10,Active,Premium,3,,Carton,462.5,347.67,14
+1417,BV-ENE-1417,Baraka Drinks Energy Drink 250ml x24,Beverages,Energy & Sports,Baraka Drinks,Baraka Trading & Industry,2015-08-31,Active,Economy,10,,Carton,445.0,337.94,14
+1418,PC-ORA-1418,Nada Beauty Toothbrush Medium x24,Personal Care,Oral Care,Nada Beauty,Nada Group,2016-06-29,Active,Economy,8,,Carton,249.5,162.23,14
+1419,PF-RAM-1419,Kemet Foods Packed Dates 400g x24,Packaged Food,Ramadan & Festive,Kemet Foods,Kemet Group,2016-10-29,Discontinued,Premium,10,2025-09-11,Carton,619.5,476.95,14
+1420,PF-BRE-1420,Kemet Foods Strawberry Jam 700g x6,Packaged Food,Breakfast & Spreads,Kemet Foods,Kemet Group ,2022-10-26,Active,Premium,5,,Carton,450.0,343.7,14
+1421,PF-RAM-1421,Al-Waha Sweet Vermicelli 700g x12,Packaged Food,Ramadan & Festive,Al-Waha,AlWaha Holding S.A.E,2015-03-02,Active,Standard,6,,Carton,217.5,179.38,14
+1422,PP-NAP-1422,Kemet Tissue Paper Napkins 200 pcs x24,Paper Products,Napkins,Kemet Tissue,Kemet Foods S.A.E,2025-07-11,New,Premium,42,,Carton,466.75,361.11,14
+1423,PF-SPI-1423,Sahara Select Mixed Spice Blend 50g x48,Packaged Food,Spices & Seasoning,Sahara Select,Sahara Manufacturing Co.,2022-03-21,Active,Premium,9,,Carton,493.5,361.84,14
+1424,PC-BAT-1424,Yasmina Soap Bars 125g x72,Personal Care,Bath & Body,Yasmina,Yasmina Foods S.A.E,2023-04-10,Active,Standard,17,,Carton,377.75,263.83,14
+1425,BV-JUI-1425,Nile Fresh Mango Fruit Juice 250ml x24,Beverages,Juices,Nile Fresh,Nile Industries S.A.E,2017-12-15,Active,Standard,10,,Carton,328.5,266.51,14
+1426,PF-STA-1426,Nile Harvest Egyptian Rice 1kg x12,Packaged Food,Staples,Nile Harvest,Nile Foods S.A.E,2022-08-14,Active,Standard,3,,Carton,470.25,411.72,0
+1427,BV-JUI-1427,Bahr Cola Mango Fruit Juice 250ml x24,Beverages,Juices,Bahr Cola,Bahr Manufacturing Co.,2022-04-08,Discontinued,Standard,3,2024-11-26,Carton,334.75,269.48,14
+1428,PC-FEM-1428,Lotus Bloom Sanitary Pads Regular x24,Personal Care,Feminine & Baby,Lotus Bloom,Lotus Manufacturing Co.,2016-02-15,Discontinued,Premium,8,2025-06-27,Carton,656.75,469.43,14
+1429,ES-BAT-1429,Basma Supplies LED Bulbs 9W x48,Personal & Household Essentials,Batteries & Lighting,Basma Supplies,Basma Manufacturing Co.,2021-03-20,Active,Economy,8,,Carton,802.5,577.04,14
+1430,PC-ORA-1430,Aura Nile Toothbrush Soft x24,Personal Care,Oral Care,Aura Nile,Aura Trading & Industry,2018-06-27,Active,Premium,24,,Carton,387.5,248.0,14
+1431,ES-HOU-1431,Basma Supplies Garbage Bags Medium x40,Personal & Household Essentials,Household Basics,Basma Supplies,Basma Manufacturing Co.,2018-01-06,Active,Economy,20,,Carton,295.75,240.38,14
+1432,PC-BAT-1432,Hayat Care Shower Gel 500ml x12,Personal Care ,Bath & Body,Hayat Care,Hayat Holding S.A.E,2018-03-29,Active,Economy,16,,Carton,797.25,544.23,14
+1433,BV-JUI-1433,Bahr Cola Kids Juice Boxes 200ml x27,Beverages,Juices,Bahr Cola,Bahr Manufacturing Co.,2015-07-26,Active,Standard,6,,Carton,368.75,286.04,14
+1434,BV-COF-1434,Kanzi Soda Instant Coffee Sachets Classic jar 100g x12,Beverages,Coffee & Hot Drinks,Kanzi Soda,Kanzi Industries S.A.E,2019-11-11,Discontinued,Economy,9,2025-06-04,Carton,499.0,366.59,14
+1435,HC-DIS-1435,Misr Fresh Dishwashing Liquid 750ml x12,Household Cleaning,Dishwashing,Misr Fresh,Misr Trading & Industry,2024-03-07,Active,Standard,7,,Carton,491.25,374.86,14
+1436,BV-COF-1436,Oasis Pure Hot Cocoa & Sahlab Mix Tub 450g x12,Beverages,Coffee & Hot Drinks,Oasis Pure,Oasis Group,2023-08-13,Active,Standard,11,,Carton,431.25,321.47,14
+1437,PF-SNA-1437,Kemet  Foods Wafer Bars Single x36,Packaged Food,Snacks & Biscuits,Kemet Foods,Kemet Group,2019-12-30,Discontinued,Premium,11,2024-12-22,Carton,232.75,172.0,14
+1438,ES-BAT-1438,PowerCell Egypt AA Alkaline Batteries Card of 2 x96,Personal & Household Essentials,Batteries & Lighting,PowerCell Egypt,PowerCell Holding S.A.E,2018-01-23,Active,Standard,3,,Carton,794.75,562.33,14
+1439,HC-LAU-1439,Lamaa Laundry Powder 500g x24,Household Cleaning,Laundry,Lamaa,Lamaa Trading & Industry,2019-01-29,Active,Premium,4,,Carton,844.5,628.73,14
+1440,PP-DIS-1440,CloudSoft Paper Cups 9oz x20x50,Paper Products,Disposable Tableware,CloudSoft,CloudSoft Group,2017-07-04,Active,Premium,39,,Carton,477.5,376.63,14
+1441,PF-SPI-1441,Amar Foods Mixed Spice Blend 100g x24,Packaged Food,Spices & Seasoning,Amar Foods,Amar Manufacturing Co.,2019-09-21,Active,Economy,7,,Carton,347.5,258.25,14
+1442,PF-DAI-1442,Zeina Kitchen UHT Full-Cream Milk 1L x12,Packaged Food,Dairy & Cheese,Zeina Kitchen,Zeina Foods S.A.E,2016-12-15,Active,Standard,5,,Carton,496.75,432.03,0
+1443,BV-JUI-1443,Nile Fresh Kids Juice Boxes 200ml x27,Beverages,Juices,Nile Fresh,Nile Industries S.A.E,2022-11-11,Discontinued,Standard,4,2024-07-19,Carton,350.25,280.47,14
+1444,PF-SPI-1444,Zeina Kitchen Mixed Spice Blend 50g x48,Packaged Food,Spices & Seasoning,Zeina Kitchen,Zeina Foods S.A.E,2021-11-21,Active,Standard,8,,Carton,385.25,284.75,14
+1445,PC-SKI-1445,Yasmina Body Lotion 400ml x12,Personal Care,Skin Care,Yasmina,Yasmina Foods S.A.E,2017-12-18,Active,Standard,17,,Carton,1023.5,674.31,14
+1446,PF-SNA-1446,Al-Waha Wafer Bars Single x36,packaged food,Snacks & Biscuits,Al-Waha,AlWaha Holding S.A.E,2024-07-11,Active,Standard,5,,Carton,186.75,142.67,14
+1447,HC-AIR-1447,Baraka Clean Air Freshener 500ml x12,Household Cleaning,Air Care & Pest,Baraka Clean,Baraka Trading & Industry,2022-08-15,Discontinued,Economy,5,2025-04-21,Carton,748.25,551.27,14
+1448,PC-HAI-1448,Nada Beauty Hair Oil 100ml x24,Personal Care,Hair Care,Nada Beauty,Nada Group,2024-12-27,Active,Economy,20,,Carton,499.75,348.43,14
+1449,PF-BRE-1449,Zeina Kitchen Strawberry Jam 700g x6,Packaged Food,Breakfast & Spreads,Zeina Kitchen,Zeina Foods S.A.E,2019-07-15,Active,Standard,10,,Carton,351.0,270.96,14
+1450,BV-JUI-1450,Kanzi Soda Mango Fruit Juice 1.5L x6,Beverages,Juices,Kanzi Soda,Kanzi Industries S.A.E,2023-01-28,Active,Economy,4,,Carton,323.25,262.08,14
+1451,HC-LAU-1451,Qasr Shine Laundry Powder 2.5kg x6,Household Cleaning,Laundry,Qasr Shine,Qasr Foods S.A.E,2021-08-25,Active,Economy,10,,Carton,642.0,495.24,14
+1452,BV-COF-1452,Bahr Cola Hibiscus & Herbal Tea Bags x48,Beverages,Coffee & Hot Drinks,Bahr Cola,Bahr Manufacturing Co.,2022-10-11,Active,Standard,9,,Carton,282.75,211.06,14
+1453,PF-STA-1453,Amar Foods White Sugar 1kg x12,Packaged Food,Staples,Amar Foods,Amar Manufacturing Co.,2019-01-12,Discontinued,Economy,6,2024-12-16,Carton,434.5,401.61,0
+1454,PF-SNA-1454,Nile Harvest Potato Chips 30g x48,Packaged Food,Snacks & Biscuits,Nile Harvest,Nile Foods S.A.E,2023-04-18,Active,Standard,4,,Carton,206.75,159.45,14
+1455,PC-HAI-1455,Yasmina Shampoo 200ml x12,Personal Care,Hair Care,Yasmina,Yasmina Foods S.A.E,2021-09-05,Active,Standard,21,,Carton,484.5,322.87,14
+1456,PF-DAI-1456,Amar Foods Tinned Feta Cheese 900g x6,Packaged Food,Dairy & Cheese,Amar Foods,Amar Manufacturing Co.,2020-11-23,Active,Economy,8,,Carton,509.25,436.82,14
+1457,PP-SCH-1457,Kemet Tissue School Notebooks 80 pages x36,Paper Products,School Paper,Kemet Tissue,Kemet Foods S.A.E,2022-08-08,Active,Premium,16,,Carton,592.25,441.81,14
+1458,HC-LAU-1458,Baraka Clean Fabric Softener 1L x12,Household Cleaning,Laundry,Baraka Clean,Baraka Trading & Industry,2019-06-18,Active,Economy,16,,Carton,502.5,390.12,14
+1459,PF-DAI-1459,Baladi Gold Processed Cheese Triangles 8 portions x24,Packaged Food ,Dairy & Cheese,Baladi Gold,Baladi Group,2016-03-16,Active,Economy,4,,Carton,380.5,314.09,14
+1460,BV-JUI-1460,Kanzi Soda Kids Juice Boxes 125ml x40,Beverages,JUICES,Kanzi Soda,Kanzi Industries S.A.E,2024-10-29,Active,Economy,6,,Carton,305.75,247.11,14

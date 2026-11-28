@@ -1,0 +1,36 @@
+StoreID,StoreName,StoreType,City,Governorate,Country,OpeningDate,StoreStatus,SalesCapacity,MonthlyOperatingCost,StoreManagerID
+101,Obour Central Distribution Center,Distribution Center,Obour City,Qalyubia,Egypt,2016-03-01,Active,5550000,917500,5002
+102,Cairo East Branch - Nasr City,Regional Branch,Nasr City,Cairo,Egypt,2017-05-01,Active,4100000,433000,5002
+103,Cairo South Branch - Maadi,Regional Branch,Maadi,Cairo,Egypt,2018-09-01,Active,4900000,408500,5009
+104,Cairo Downtown Sales Office,Sales Office,Downtown,Cairo,Egypt,2019-02-01,Active,4000000,72000,5017
+105,Shubra Wholesale Outlet,Wholesale Outlet,Shubra El-Kheima,Qalyubia,Egypt,2018-01-15,Active,3000000,282500,5002
+106,Giza West Distribution Center - 6th of October,Distribution Center,6th of October City,Giza,Egypt,2019-04-01,Active,3950000,882500,5009
+107,Giza Branch - Dokki,Regional Branch,dokki,Giza,Egypt,2020-01-01,Active,2450000,261000,5002
+108,Imbaba Wholesale Outlet,Wholesale Outlet,Imbaba,Giza,Egypt,2021-06-01,Active,11250000,170000,5002
+109,Haram Sales Office,Sales Office,Haram,Giza,Egypt,2022-03-01,Active,3200000,80500,5002
+110,New Administrative Capital Sales Office,Sales Office,New Cairo,Cairo,Egypt,2024-08-01,Active,5150000,87500,5009
+111,Helwan Sales Office,Sales Office,Helwan,Cairo,Egypt,2023-05-01,Active,5700000,105500,5009
+112,Alexandria Distribution Center - Borg El Arab,distribution center,Borg El Arab,Alexandria,Egypt,2017-10-01,Reduced Hours,4300000,747500,5033
+113,Alexandria Branch - Smouha,regional branch,Smouha,Alexandria,Egypt,2019-06-01,Active,4550000,237500,5003
+114,Alexandria Wholesale Outlet - Moharram Bek,Wholesale Outlet,Moharram Bek,Alexandria,Egypt,2020-09-01,Active,4400000,258500,5033
+115,Damanhour Branch,Regional Branch,Damanhour,Beheira,Egypt,2021-02-01,Reduced Hours,4150000,209000,5033
+116,Kafr El Sheikh Sales Office,Sales Office,Kafr El Sheikh,Kafr El Sheikh,Egypt,2024-02-01,Active,2300000,126000,5031
+117,Delta Distribution Center - Tanta,Distribution Center,Tanta,Gharbia,Egypt,2018-03-01,Active,3300000,910000,5004
+118,Mansoura Branch,Regional Branch,mansoura,Dakahlia,Egypt,2018-11-01,Active,7600000,273000,5004
+119,Zagazig Branch,Regional Branch,Zagazig,Sharqia,Egypt,2019-08-01,Reduced Hours,2800000,430500,5004
+120,Shebin El Kom Sales Office,Sales Office,Shebin El Kom,Monufia,Egypt,2021-11-01,Active,3650000,137000,5042
+121,Mahalla Wholesale Outlet,Wholesale Outlet,El Mahalla El Kubra,Gharbia,Egypt,2022-04-01,Active,3600000,203500,5042
+122,10th of Ramadan Sales Office,Sales Office,10th of Ramadan City,Sharqia,Egypt,2023-03-01,Active,4600000,64000,5041
+123,Damietta Sales Office,Sales Office,Damietta,Damietta,Egypt,2025-02-01,Active,1300000,84500,5042
+124,Ismailia Branch,Regional Branch,Ismailia,Ismailia,Egypt,2019-10-01,Active,3750000,216500,5048
+125,Port Said Sales Office,Sales Office,Port Said,Port Said,Egypt,2020-07-01,Active,850000,81500,5005
+126,Suez Sales Office,Sales Office,Suez,Suez,Egypt,2025-05-15,Active,1000000,90000,5048
+127,Port Said Wholesale Outlet,Wholesale Outlet,Port Said,Port Said,Egypt,2023-09-01,Active,900000,264000,5048
+128,Beni Suef Branch,Regional Branch,Beni Suef,Beni Suef,Egypt,2020-03-01,Active,2000000,435500,5055
+129,Fayoum Sales Office,Sales Office,Fayoum,Fayoum,Egypt,2022-09-01,Reduced Hours,3000000,69000,5006
+130,Minya Distribution Center,Distribution Center,Minya,Minya,Egypt,2019-01-15,Active,3150000,1049000,5006
+131,Assiut Branch,Regional Branch,Assiut,Assiut,Egypt,2021-05-01,Active,2650000,411500,5053
+132,Assiut Wholesale Outlet,Wholesale Outlet,Assiut,Assiut,Egypt,2024-04-01,Active,3100000,295000,5006
+133,Sohag Sales Office,Sales Office,Sohag,Sohag,Egypt,2024-09-15,Active,3150000,63500,5006
+134,Qena Sales Office,Sales Office,Qena,Qena,Egypt,2025-07-01,Active,650000,104500,5006
+135,Minya Wholesale Outlet,Wholesale Outlet,Minya,Minya,Egypt,2023-02-01,Active,2250000,125500,5006
