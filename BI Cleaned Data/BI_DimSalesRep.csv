@@ -1,0 +1,101 @@
+SalesRepID,SalesRepName,HireDate,EmploymentStatus,Territory,SalesChannel,ManagerID,SeniorityLevel,MonthlyBaseSalary,CommissionPlanID,EmploymentEndDate,Clean_Governorate
+5001,Hassan Mahmoud El-Naggar,26-May-18,Active,National,All Channels,,National Manager,80000,,,Cairo
+5002,Mina Magdy Abdallah,24-Aug-15,Active,Greater Cairo,All Channels,5001,Regional Manager,40000,,,Cairo
+5003,Mina Hussein Rizk,19-Sep-15,Active,Alexandria & West Delta,All Channels,5001,Regional Manager,49000,,,Alexandria
+5004,Khaled Bassem El-Sayed,22-Mar-18,Active,Delta,All Channels,5001,Regional Manager,46000,,,Dakahliya
+5005,Ramy Fady Morsy,2-Apr-18,Active,Canal,All Channels,5001,Regional Manager,39000,,,Ismailiya
+5006,Essam Walid El-Shazly,9-Dec-16,Active,Upper Egypt,All Channels,5001,Regional Manager,39000,,,Assiut
+5007,Dina Ramy Rizk,28-Nov-17,Active,National,All Channels,5001,Regional Manager,41000,,,Cairo
+5008,Adel Tarek Helmy,12-Aug-21,Active,Cairo - Zone 1,Field Sales,5009,Mid,13750,CP-FLD,,Cairo
+5009,Mark Omar Wahba,2-Mar-16,Active,Cairo - Zone 2,Field Sales,5002,Team Lead,21500,CP-TLD,,Cairo
+5011,Dina Walid Lotfy,24-Sep-24,Active,Cairo - Zone 4,Field Sales,5009,Junior,8500,CP-FLD,,Cairo
+5013,Yasser Amr Farouk,3-Feb-21,Active,Cairo - Zone 6,Field Sales,5009,Mid,11000,CP-FLD,,Cairo
+5015,Magdy Hassan Fathy,10-Jul-24,Active,Cairo - Zone 8,Field Sales,5009,Junior,9000,CP-FLD,,Cairo
+5017,Ibrahim Adel Awad,14-Jan-17,Active,Giza - Zone 1,Field Sales,5002,Team Lead,26750,CP-TLD,,Giza
+5018,Magdy Ibrahim El-Naggar,2-Feb-24,Active,Giza - Zone 2,Field Sales,5009,Junior,8750,CP-FLD,,Giza
+5019,Aya Karim Helmy,4-Dec-21,Active,Giza - Zone 3,Field Sales,5009,Mid,13750,CP-FLD,,Giza
+5020,Hassan Ayman Kamel,24-Jan-25,Active,Giza - Zone 4,Field Sales,5009,Junior,7500,CP-FLD,,Giza
+5021,Tarek Ibrahim El-Sayed,25-Jul-25,Active,Giza - Zone 5,Field Sales,5009,Junior,9250,CP-FLD,,Giza
+5022,Hussein Magdy Salem,15-Aug-19,Active,Giza - Zone 6,Field Sales,5009,Senior,17000,CP-FLD,,Giza
+5024,Sara Adel El-Gendy,12-Jun-23,Active,Qalyubia - Zone 1,Field Sales,5009,Mid,13750,CP-FLD,,Qalyubiya
+5025,Sameh Karim Soliman,15-Jan-21,Active,Qalyubia - Zone 2,Field Sales,5009,Mid,12500,CP-FLD,,Qalyubiya
+5026,Yasser Sameh Attia,17-Feb-22,Active,Qalyubia - Zone 3,Field Sales,5009,Mid,12000,CP-FLD,,Qalyubiya
+5027,Ahmed Bassem Morsy,12-Mar-22,Active,Qalyubia - Zone 4,Field Sales,5009,Mid,11500,CP-FLD,,Qalyubiya
+5028,Rania Hassan Abdallah,13-Sep-21,Active,Qalyubia - Zone 5,Field Sales,5009,Mid,11250,CP-FLD,,Qalyubiya
+5029,Karim Sameh Tawfik,7-Oct-24,Active,Qalyubia - Zone 6,Field Sales,5009,Junior,8750,CP-FLD,,Qalyubiya
+5030,Omar Magdy Rizk,27-Oct-17,Active,Alexandria - Zone 1,Field Sales,5031,Senior,16500,CP-FLD,,Alexandria
+5031,Rania Hassan Kamel,13-Jan-17,Active,Alexandria - Zone 2,Field Sales,5003,Team Lead,25750,CP-TLD,,Alexandria
+5032,Mina Mina Gaber,21-Oct-24,Active,Alexandria - Zone 3,Field Sales,5031,Junior,7500,CP-FLD,,Alexandria
+5033,Nour Hussein Abdallah,15-Mar-20,Active,Beheira - Zone 1,Field Sales,5003,Team Lead,21000,CP-TLD,,Beheira
+5034,Sara Ashraf Ismail,21-Oct-22,Active,Beheira - Zone 2,Field Sales,5031,Mid,12250,CP-FLD,,Beheira
+5035,Peter Karim Salem,31-May-24,Active,Beheira - Zone 3,Field Sales,5031,Mid,10750,CP-FLD,,Beheira
+5036,Omar Ahmed Fathy,27-Sep-22,Active,Kafr El Sheikh - Zone 1,Field Sales,5031,Mid,10250,CP-FLD,,Kafr El-Sheikh
+5037,Sameh Mina Younes,8-Jul-24,Active,Kafr El Sheikh - Zone 2,Field Sales,5031,Junior,8500,CP-FLD,,Kafr El-Sheikh
+5038,Hussein Walid Zaki,28-Jul-24,Active,Kafr El Sheikh - Zone 3,Field Sales,5031,Junior,8000,CP-FLD,,Kafr El-Sheikh
+5039,Omar Hussein Awad,6-Jun-20,Active,Kafr El Sheikh - Zone 4,Field Sales,5031,Senior,19250,CP-FLD,,Kafr El-Sheikh
+5040,Yasmin Hossam Habib,5-Mar-21,Active,Dakahlia - Zone 1,Field Sales,5041,Mid,11750,CP-FLD,,Dakahliya
+5041,Rania Bassem El-Masry,31-Jan-19,Active,Dakahlia - Zone 2,Field Sales,5004,Team Lead,23500,CP-TLD,,Dakahliya
+5042,Mona Ahmed Nasr,2-Jan-21,Active,Gharbia - Zone 1,Field Sales,5004,Team Lead,21000,CP-TLD,,Gharbiya
+5043,Yasser Fady Rizk,16-Aug-25,Active,Gharbia - Zone 2,Field Sales,5041,Junior,9000,CP-FLD,,Gharbiya
+5044,Sara Fady El-Deeb,18-Sep-23,Active,Monufia - Zone 1,Field Sales,5041,Mid,10750,CP-FLD,,Minufiya
+5046,Ayman Mina Rizk,3-Oct-24,Active,Sharqia - Zone 1,Field Sales,5041,Junior,7750,CP-FLD,,Sharkia
+5048,Hany Tarek Girgis,1-Aug-18,Active,Ismailia - Zone 1,Field Sales,5005,Team Lead,25500,CP-TLD,,Ismailiya
+5049,Mona Hossam Nasr,10-Aug-24,Active,Port Said - Zone 1,Field Sales,5048,Junior,7750,CP-FLD,,Port Said
+5050,Ibrahim Mark El-Sayed,5-May-24,Active,Suez - Zone 1,Field Sales,5048,Junior,9000,CP-FLD,,Suez
+5051,Tarek Khaled El-Sayed,18-Aug-19,Active,Fayoum - Zone 1,Field Sales,5053,Senior,18500,CP-FLD,,Fayoum
+5052,Heba Mark Morsy,18-Jan-22,Active,Beni Suef - Zone 1,Field Sales,5053,Mid,12000,CP-FLD,,Beni Suef
+5053,Mostafa Ashraf El-Naggar,27-Dec-16,Active,Minya - Zone 1,Field Sales,5006,Team Lead,21750,CP-TLD,,Minya
+5054,Nabil Walid Attia,27-Mar-25,Active,Minya - Zone 2,Field Sales,5053,Junior,8750,CP-FLD,,Minya
+5055,Hassan Mostafa Radwan,29-May-17,Active,Assiut - Zone 1,Field Sales,5006,Team Lead,25750,CP-TLD,,Assiut
+5056,Salma Hussein Wahba,8-Mar-25,Active,Assiut - Zone 2,Field Sales,5053,Junior,8500,CP-FLD,,Assiut
+5057,Yasmin Hassan Hegazy,17-Dec-24,Active,Sohag - Zone 1,Field Sales,5053,Junior,8000,CP-FLD,,Sohag
+5058,Adel Khaled Farouk,8-Jun-22,Active,Sohag - Zone 2,Field Sales,5053,Mid,10500,CP-FLD,,Sohag
+5060,Dina Yasser Samir,25-Sep-20,Active,Greater Cairo - Wholesale,Wholesale,5002,Senior,17500,CP-WHS,,Cairo
+5061,Mariam Mahmoud Hegazy,14-Jul-19,Active,Greater Cairo - Wholesale,Wholesale,5002,Senior,16250,CP-WHS,,Giza
+5062,Hala Mohamed Farouk,19-May-24,Active,Greater Cairo - Wholesale,Wholesale,5002,Junior,9250,CP-WHS,,Qalyubiya
+5063,Hossam Essam Rizk,5-Sep-16,Active,Alexandria & West Delta - Wholesale,Wholesale,5003,Senior,18500,CP-WHS,,Alexandria
+5064,Karim Peter Morsy,16-Sep-24,Active,Alexandria & West Delta - Wholesale,Wholesale,5003,Junior,9250,CP-WHS,,Beheira
+5065,Mostafa Hossam Girgis,30-Oct-18,Active,Delta - Wholesale,Wholesale,5004,Senior,19250,CP-WHS,,Dakahliya
+5066,Ibrahim Amr Badawi,11-Apr-19,Active,Delta - Wholesale,Wholesale,5004,Senior,18000,CP-WHS,,Gharbiya
+5067,Mariam Hassan Rizk,16-Jan-25,Active,Delta - Wholesale,Wholesale,5004,Mid,11250,CP-WHS,,Sharkia
+5068,Mariam Hussein Nasr,3-May-16,Active,Canal - Wholesale,Wholesale,5005,Senior,15750,CP-WHS,,Ismailiya
+5069,Ramy Ayman El-Shazly,17-Jul-16,Active,Upper Egypt - Wholesale,Wholesale,5006,Senior,16750,CP-WHS,,Assiut
+5070,Mostafa Ayman Mansour,2-Feb-20,Active,Upper Egypt - Wholesale,Wholesale,5006,Senior,19250,CP-WHS,,Minya
+5072,Essam Nabil Abdel-Rahman,1-May-17,Active,Greater Cairo - Modern Trade,Modern Trade,5007,Senior,15750,CP-KAM,,Cairo
+5073,Hany Ramy El-Masry,17-Sep-21,Active,Greater Cairo - Modern Trade,Modern Trade,5007,Mid,12250,CP-KAM,,Cairo
+5075,Sameh Bassem El-Shazly,6-Apr-24,Active,Greater Cairo - Modern Trade,Modern Trade,5007,Junior,9250,CP-KAM,,Giza
+5076,Ayman Sherif Mansour,25-Nov-19,Active,Alexandria & West Delta - Modern Trade,Modern Trade,5007,Senior,18250,CP-KAM,,Alexandria
+5077,Sameh Tarek Wahba,7-Jun-22,Active,Alexandria & West Delta - Modern Trade,Modern Trade,5007,Mid,13000,CP-KAM,,Alexandria
+5078,Hussein Mohamed Rizk,22-Nov-16,Active,Delta - Modern Trade,Modern Trade,5007,Senior,16500,CP-KAM,,Dakahliya
+5079,Essam Karim Awad,12-Nov-18,Active,Canal - Modern Trade,Modern Trade,5007,Senior,16500,CP-KAM,,Ismailiya
+5080,Dina Mark Hegazy,15-Apr-17,Active,Upper Egypt - Modern Trade,Modern Trade,5007,Senior,15500,CP-KAM,,Assiut
+5081,Peter Hussein Awad,2-Sep-17,Active,Greater Cairo - Horeca,Horeca,5002,Senior,18000,CP-HRC,,Cairo
+5082,Reem Walid Abdallah,26-Apr-24,Active,Greater Cairo - Horeca,Horeca,5002,Junior,9250,CP-HRC,,Cairo
+5083,Salma Karim El-Shazly,9-Sep-24,Active,Greater Cairo - Horeca,Horeca,5002,Junior,8750,CP-HRC,,Cairo
+5084,Reem Mahmoud El-Deeb,23-Sep-22,Active,Greater Cairo - Horeca,Horeca,5002,Mid,12500,CP-HRC,,Giza
+5086,Mark Ayman Soliman,13-Oct-21,Active,Alexandria & West Delta - Horeca,Horeca,5003,Mid,11500,CP-HRC,,Alexandria
+5087,Yasser Nabil Girgis,6-Apr-25,Active,Alexandria & West Delta - Horeca,Horeca,5003,Junior,7750,CP-HRC,,Alexandria
+5088,Magdy Mahmoud Kamel,10-Mar-21,Active,Delta - Horeca,Horeca,5004,Mid,10000,CP-HRC,,Gharbiya
+5089,Sara Peter Ismail,16-Feb-25,Active,Delta - Horeca,Horeca,5004,Junior,8000,CP-HRC,,Sharkia
+5090,Ahmed Hossam Girgis,20-Jul-21,Active,Canal - Horeca,Horeca,5005,Mid,12750,CP-HRC,,Port Said
+5091,Mahmoud Karim Rizk,26-Dec-19,Active,Upper Egypt - Horeca,Horeca,5006,Senior,17750,CP-HRC,,Minya
+5092,Mariam Omar Mansour,22-Feb-18,Active,Upper Egypt - Horeca,Horeca,5006,Senior,19250,CP-HRC,,Assiut
+5093,Ramy Essam Radwan,23-Jan-19,Active,National Telesales Desk,Telesales,5007,Senior,18000,CP-TEL,,Cairo
+5094,Sherif Walid Attia,8-Jan-25,Active,National Telesales Desk,Telesales,5007,Junior,9000,CP-TEL,,Cairo
+5095,Rania Hussein El-Masry,6-Dec-24,Active,National Telesales Desk,Telesales,5007,Junior,9000,CP-TEL,,Cairo
+5096,Hala Mostafa El-Gendy,25-Aug-23,Active,National Telesales Desk,Telesales,5007,Mid,12750,CP-TEL,,Cairo
+5097,Salma Tarek Radwan,22-Aug-23,Active,National Telesales Desk,Telesales,5007,Mid,13500,CP-TEL,,Cairo
+5098,Mona Hussein Girgis,19-May-25,Active,National Telesales Desk,Telesales,5007,Mid,13000,CP-TEL,,Cairo
+5099,Adel Bassem El-Gendy,10-Mar-20,Active,National Telesales Desk,Telesales,5007,Senior,17750,CP-TEL,,Alexandria
+5010,Hussein Essam Fathy,4-Oct-20,Resigned,Cairo - Zone 3,Field Sales,5009,Senior,15250,CP-FLD,16-Mar-25,Cairo
+5012,Ahmed Khaled Girgis,21-Feb-20,Resigned,Cairo - Zone 5,Field Sales,5009,Senior,19000,CP-FLD,6-Jul-24,Cairo
+5014,Hany Sameh El-Masry,7-Dec-19,Resigned,Cairo - Zone 7,Field Sales,5009,Senior,16750,CP-FLD,9-Aug-24,Cairo
+5016,Walid Sameh Mansour,15-May-23,Terminated,Cairo - Zone 9,Field Sales,5009,Mid,10000,CP-FLD,21-Dec-24,Cairo
+5023,Walid Ashraf Attia,15-May-21,Terminated,Giza - Zone 7,Field Sales,5009,Mid,10250,CP-FLD,5-Aug-24,Giza
+5045,Hany Magdy El-Shazly,7-Feb-18,Terminated,Monufia - Zone 2,Field Sales,5041,Senior,17000,CP-FLD,20-Aug-25,Minufiya
+5047,Hassan Ayman Boules,27-Jul-20,Resigned,Damietta - Zone 1,Field Sales,5041,Senior,18750,CP-FLD,4-Aug-24,Damietta
+5059,Mona Mark Radwan,23-Sep-18,Resigned,Qena - Zone 1,Field Sales,5053,Senior,19500,CP-FLD,2-Sep-24,Qena
+5071,Magdy Peter Gaber,5-Oct-19,Terminated,Upper Egypt - Wholesale,Wholesale,5006,Senior,18000,CP-WHS,16-May-25,Sohag
+5074,Mona Ibrahim Mansour,3-Apr-23,Resigned,Greater Cairo - Modern Trade,Modern Trade,5007,Mid,11250,CP-KAM,10-Nov-24,Cairo
+5085,Heba Mahmoud Ismail,20-Aug-20,Resigned,Greater Cairo - Horeca,Horeca,5002,Senior,16500,CP-HRC,18-Feb-25,Giza
+5100,Dina Hossam Fouad,20-Sep-22,Resigned,National Telesales Desk,Telesales,5007,Mid,10750,CP-TEL,13-Nov-25,Alexandria

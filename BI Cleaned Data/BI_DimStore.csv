@@ -1,0 +1,36 @@
+StoreID,StoreName,StoreType,OpeningDate,StoreManagerID,Clean_Governorate
+101,Obour Central Distribution Center,Distribution Center,1-Mar-16,5002,Qalyubiya
+102,Cairo East Branch - Nasr City,Regional Branch,1-May-17,5002,Cairo
+103,Cairo South Branch - Maadi,Regional Branch,1-Sep-18,5009,Cairo
+104,Cairo Downtown Sales Office,Sales Office,1-Feb-19,5017,Cairo
+105,Shubra Wholesale Outlet,Wholesale Outlet,15-Jan-18,5002,Qalyubiya
+106,Giza West Distribution Center - 6Th Of October,Distribution Center,1-Apr-19,5009,Giza
+107,Giza Branch - Dokki,Regional Branch,1-Jan-20,5002,Giza
+108,Imbaba Wholesale Outlet,Wholesale Outlet,1-Jun-21,5002,Giza
+109,Haram Sales Office,Sales Office,1-Mar-22,5002,Giza
+110,New Administrative Capital Sales Office,Sales Office,1-Aug-24,5009,Cairo
+111,Helwan Sales Office,Sales Office,1-May-23,5009,Cairo
+112,Alexandria Distribution Center - Borg El Arab,Distribution Center,1-Oct-17,5033,Alexandria
+113,Alexandria Branch - Smouha,Regional Branch,1-Jun-19,5003,Alexandria
+114,Alexandria Wholesale Outlet - Moharram Bek,Wholesale Outlet,1-Sep-20,5033,Alexandria
+115,Damanhour Branch,Regional Branch,1-Feb-21,5033,Beheira
+116,Kafr El Sheikh Sales Office,Sales Office,1-Feb-24,5031,Kafr El-Sheikh
+117,Delta Distribution Center - Tanta,Distribution Center,1-Mar-18,5004,Gharbiya
+118,Mansoura Branch,Regional Branch,1-Nov-18,5004,Dakahliya
+119,Zagazig Branch,Regional Branch,1-Aug-19,5004,Sharkia
+120,Shebin El Kom Sales Office,Sales Office,1-Nov-21,5042,Minufiya
+121,Mahalla Wholesale Outlet,Wholesale Outlet,1-Apr-22,5042,Gharbiya
+122,10Th Of Ramadan Sales Office,Sales Office,1-Mar-23,5041,Sharkia
+123,Damietta Sales Office,Sales Office,1-Feb-25,5042,Damietta
+124,Ismailia Branch,Regional Branch,1-Oct-19,5048,Ismailiya
+125,Port Said Sales Office,Sales Office,1-Jul-20,5005,Port Said
+126,Suez Sales Office,Sales Office,15-May-25,5048,Suez
+127,Port Said Wholesale Outlet,Wholesale Outlet,1-Sep-23,5048,Port Said
+128,Beni Suef Branch,Regional Branch,1-Mar-20,5055,Beni Suef
+129,Fayoum Sales Office,Sales Office,1-Sep-22,5006,Fayoum
+130,Minya Distribution Center,Distribution Center,15-Jan-19,5006,Minya
+131,Assiut Branch,Regional Branch,1-May-21,5053,Assiut
+132,Assiut Wholesale Outlet,Wholesale Outlet,1-Apr-24,5006,Assiut
+133,Sohag Sales Office,Sales Office,15-Sep-24,5006,Sohag
+134,Qena Sales Office,Sales Office,1-Jul-25,5006,Qena
+135,Minya Wholesale Outlet,Wholesale Outlet,1-Feb-23,5006,Minya
